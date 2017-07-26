@@ -18,3 +18,5 @@ HIPAA assigns covered entities with the responsibility of securing patient healt
 Archway Health Advisors recognizes the importance of HIPAA and as such, has designated a Security & Privacy Officer responsible for the organization’s compliance with this law. You may contact our Security & Privacy Officer directly at: dsc@archwayha.com.
 
 ## Policy Index
+
+* [Introduction](src/main/md/01-introduction.md)
