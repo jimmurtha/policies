@@ -50,7 +50,7 @@ The current Archway Privacy Officer is Luke Pezet ([dsc@archwayha.com](mailto:ds
    12. Users may not alter ePHI maintained in a database, unless authorized to do so by a Archway Customer;
    13. Users are required to understand their role in Archway's contingency plan;
    14. Users may not share their user names nor passwords with anyone;
-   15. Requirements for users to create and change passwords;
+   15. Requirements for users to enroll in 2-form-authentication;
    16. Users must set all applications that contain or transmit ePHI to automatically log off after 15 minutes of inactivity;
    17. Supervisors are required to report terminations of workforce members and other outside users;
    18. Supervisors are required to report a change in a users title, role, department, and/or location;
@@ -64,7 +64,7 @@ The current Archway Privacy Officer is Luke Pezet ([dsc@archwayha.com](mailto:ds
 
 The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Archway security policies and non-compliance with the security regulations [164.308(a)(1)(ii)&lpar;c&rpar;], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
 
-The current Archway Security Officer is Adam Leko ([adam@datica.com](mailto:adam@datica.com)).
+The current Archway Security Officer is Luke Pezet ([dsc@archwayha.com](mailto:dsc@archwayha.com)).
 
 ### 5.3.1 Organizational Responsibilities
 
