@@ -45,16 +45,16 @@ Unit and end-to-end testing is performed on Services to ensure security and priv
 
 ## 1.5 Requesting Audit and Compliance Reports
 
-Archway, at its sole discretion, shares audit reports, including its HITRUST reports and Corrective Action Plans (CAPs), with customers on a case by case basis. All audit reports are shared under explicit NDA in Archway format between Archway and party to receive materials. Audit reports can be requested by Datica workforce members for Customers or directly by Archway Customers.
+Archway, at its sole discretion, shares audit reports, including its HITRUST reports and Corrective Action Plans (CAPs), with customers on a case by case basis. All audit reports are shared under explicit NDA in Archway format between Archway and party to receive materials. Audit reports can be requested by Archway workforce members for Customers or directly by Archway Customers.
 
 The following process is used to request audit reports:
 
 1. Email is sent to compliance-reports@archwayha.com. In the email, please specify the type of report being requested and any required timelines for the report.
-2. Archway staff will log an Issue with the details of the request into the Archway Compliance Review Activities Project on JIRA. JIRA is used to track requests status and outcomes.
+2. Archway staff will log an Issue with the details of the request into the Archway Compliance Review Activities list within the Compliance board on Trello. Trello is used is used to track requests status and outcomes.
 3. Archway will confirm if a current NDA is in place with the party requesting the audit report. If there is no NDA in place, Archway will send one for execution.
-4. Once it has been confirmed that an NDA is executed, Datica staff will move the JIRA Issue to "Under Review".
-5. The Archway Security and Privacy Officer must Approve or Reject the Issue. If the Issue is rejected, Datica will notify the requesting party that we cannot share the requested report.
-4. If the Issue has been Approved, Archway will send the customer the requested audit report and complete the JIRA Issue for the request.
+4. Once it has been confirmed that an NDA is executed, Archway staff will label the Trello Card as "Under Review".
+5. The Archway Security and Privacy Officer must Approve or Reject the Card. If the Card is rejected, Archway will notify the requesting party that we cannot share the requested report.
+4. If the Issue has been Approved, Archway will send the customer the requested audit report and complete the Trello Card for the request.
 
 ## 1.6 Version Control
 
