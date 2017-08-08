@@ -34,24 +34,24 @@ Access to Archway systems and application is limited for all users, including bu
 ## 6.2 Access Establishment and Modification
 
 1. Requests for access to Archway Platform systems and applications is made formally using the following process:
-  1. The Archway workforce member, or their manager, initiates the access request by creating a Card in the Trello Compliance Review Activity (CRA) list within the Compliance board.
+  1. The Archway workforce member, or their manager, initiates the access request by creating an Issue in the Compliance Review Activity (CRA) Project.
      * User identities must be verified prior to granting access to new accounts.
      * Identity verification must be done in person where possible; for remote employees, identities must be verified over the phone.
      * For new accounts, the method used to verify the user's identity must be recorded on the Issue.
   2. The Security Officer will grant access to systems as dictated by the employee's job title. If additional access is required outside of the minimum necessary to perform job functions, the requester must include a description of why the additional access is required as part of the access request.
-  3. Once the review is completed, the Security Officer approves or rejects the Card. If the Card is rejected, it goes back for further review and documentation.
-  4. If the review is approved, the Security Officer then marks the Card as Done, adding any pertinent notes required. The Security Officer then grants requested access.
+  3. Once the review is completed, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
+  4. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required. The Security Officer then grants requested access.
      * New accounts will be created with a temporary secure password that meets all requirements from [§7.12](#7.12-password-management), which must be changed on the initial login.
      * All password exchanges must occur over an authenticated channel.
      * For production and non-productionaccess grants are accomplished by leveraging the access control mechanisms built into those systems. Account management for non-production systems may be delegated to a Archway employee at the discretion of the Security Officer.
 2. Access is not granted until receipt, review, and approval by the Archway Security Officer;
 3. The request for access is retained for future reference.
 4. All access to Archway systems and services are reviewed and updated on a bi-annual basis to ensure proper authorizations are in place commensurate with job functions. The process for conducting reviews is outlined below:
-   1. The Security Officer initiates the review of user access by creating a Card in the Trello Compliance Review Activity (CRA) list within the Compliance board.
+   1. The Security Officer initiates the review of user access by creating an Issue in the Compliance Review Activity (CRA) Project.
    2. The Security Officer, or a Privacy Officer, is assigned to review levels of access for each Archway workforce member.
-   3. If user access is found during review that is not in line with the least privilege principle, the process below is used to modify user access and notify the user of access changes. Once those steps are completed, the Card is then reviewed again.
-   4. Once the review is completed, the Security Officer approves or rejects the Card. If the Card is rejected, it goes back for further review and documentation.
-   5. If the review is approved, the Security Officer then marks the Card as Done, adding any pertinent notes required.
+   3. If user access is found during review that is not in line with the least privilege principle, the process below is used to modify user access and notify the user of access changes. Once those steps are completed, the Issue is then reviewed again.
+   4. Once the review is completed, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
+   5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
    6. Review of user access is monitored on a quarterly basis using Trello list to assess compliance with above policy.
 5. Any Archway workforce member can request change of access using the process outlined in [§7.2 paragraph 1](#7.2-access-establishment-and-modification).
 6. Access to production systems is controlled using centralized user management and authentication.

@@ -1,18 +1,18 @@
-# 9. Configuration Management Policy
+# 8. Configuration Management Policy
 
 Archway standardizes and automates configuration management through the use of Amazon Web Services (AWS) as well as documentation of all changes to production systems and networks. Certain AWS Services provide abilities to configure all Archway systems according to established and tested policies, and are used as part of our Disaster Recovery plan and process.
 
-## 9.1 Applicable Standards
+## 8.1 Applicable Standards
 
-### 9.1.1 Applicable Standards from the HITRUST Common Security Framework
+### 8.1.1 Applicable Standards from the HITRUST Common Security Framework
 
 * 06 - Configuration Management
 
-### 9.1.2 Applicable Standards from the HIPAA Security Rule
+### 8.1.2 Applicable Standards from the HIPAA Security Rule
 
 * 164.310(a)(2)(iii) Access Control & Validation Procedures
 
-## 9.2 Configuration Management Policies
+## 8.2 Configuration Management Policies
 
 1. Chef and Salt are used to standardize and automate configuration management.
 2. No systems are deployed into Archway environments without approval of the Archway CTO.
@@ -35,11 +35,11 @@ Archway standardizes and automates configuration management through the use of A
     * Linux-based systems use a Red Hat Enterprise Linux STIG which has been adapted for Ubuntu and improved based on the results of subsequent vulnerability scans and risk assessments.
 14. Clocks are continuously synchronized to an authoritative source across all systems using NTP or a platform-specific equivalent. Modifying time data on systems is restricted.
 
-## 9.3 Provisioning Production Systems
+## 8.3 Provisioning Production Systems
 
-1. Before provisioning any systems, ops team members must file a request in the Deployment Activity (DA) list in the Trello Compliance board.
+1. Before provisioning any systems, ops team members must file a request in the Deployment Activity (DA) Project.
    * Trello access requires authenticated users.
-   * The CTO grants access to the Trello DA project following the procedures covered in the [Access Establishment and Modification section](#7.2-access-establishment-and-modification).
+   * The CTO grants access to the DA project following the procedures covered in the [Access Establishment and Modification section](#7.2-access-establishment-and-modification).
 2. The VP Engineering or CTO must approve the provisioning request before any new system can be provisioned.
 3. Once provisioning has been approved, the ops team member must configure the new system according to the standard baseline chosen for the system's role.
    * For Linux systems, this means adding the appropriate grains to the Salt configuration file and running a `highstate` operation.
@@ -56,7 +56,7 @@ Archway standardizes and automates configuration management through the use of A
 6. Once the security team member has verified the new system is correctly configured, the team member must add that system to the Nessus security scanner configuration.
 7. The new system may be rotated into production once the CTO verifies all the provisioning steps listed above have been correctly followed and has marked the Issue with the `Approved` state.
 
-### 9.3.1 Provisioning Linux Systems
+### 8.3.1 Provisioning Linux Systems
 
 1. Linux systems have their baseline security configuration applied via Salt states. These baseline Salt states cover:
    * Ensuring that the machine is up-to-date with security patches and is configured to apply patches in accordance with our policies.
@@ -70,7 +70,7 @@ Archway standardizes and automates configuration management through the use of A
    * Configuring audit logging as described in the [Auditing Policy section](#8.-auditing-policy).
 2. Any additional Salt states applied to the Linux system must be clearly documented by the ops team member in the DT request by specifying the purpose of the new system.
 
-### 9.3.2 Provisioning Windows Systems
+### 8.3.2 Provisioning Windows Systems
 
 1. Windows systems have their baseline security configuration applied via the combination of Group Policy settings and Chef recipes. These baseline settings cover:
    * Joining the Windows Domain Controller and applying the Active Directory Group Policy configuration.
@@ -84,7 +84,7 @@ Archway standardizes and automates configuration management through the use of A
    * Configuring audit logging as described in the [Auditing Policy section](#8.-auditing-policy).
 2. Any additional Salt states applied to the Linux system must be clearly documented by the ops team member in the DT request by specifying the purpose of the new system.
 
-### 9.3.3 Provisioning Management Systems
+### 8.3.3 Provisioning Management Systems
 
 1. Provisioning management systems such salt servers, LDAP servers, or VPN appliances follows the same procedure as provisioning a production system.
 2. Provisioning the first Salt server for a production pod requires bootstrapping Salt. The VP Engineering will oversee provisioning a new Salt server.
@@ -97,7 +97,7 @@ Archway standardizes and automates configuration management through the use of A
      * Network connectivity timeouts.
 4. Critical infrastruture roles applied to new systems must be clearly documented by the ops team member in the DT request.
 
-## 9.4 Changing Existing Systems
+## 8.4 Changing Existing Systems
 
 1. Subsequent changes to already-provisioned systems are unconditionally handled by one of the following methods:
    * Changes to Salt states or pillar values.
@@ -110,7 +110,7 @@ Archway standardizes and automates configuration management through the use of A
 3. In all cases, before rolling out the change to production, the ops team member must file an Issue in the DT project describing the change. This Issue must link to the reviewed Merge Request and/or include a link to the runbook.
 4. Once the request has been approved by the CTO, the ops team member may roll out the change into production environments.
 
-## 9.5 Patch Management Procedures
+## 8.5 Patch Management Procedures
 
 1. Archway uses automated tooling to ensure systems are up-to-date with the latest security patches.
 2. On Ubuntu Linux systems, the unattended-upgrades tool is used to apply security patches in phases.
@@ -120,7 +120,7 @@ Archway standardizes and automates configuration management through the use of A
    * Patches for critical kernel security vulnerabilities may be applied to production systems using hot-patching tools at the discretion of the Security Officer. These patches must follow the same phased testing process used for non-kernel security patches; this process may be expedited for severe vulnerabilities.
 3. On Windows systems, the baseline Group Policy setting configures Windows Update to implement the patching policy.
 
-## 9.6 Software Development Procedures
+## 8.6 Software Development Procedures
 
 1. All development uses feature branches based on the main branch used for the current release. Any changes required for a new feature or defect fix are committed to that feature branch.
    * These changes must be covered under 1) a unit test where possible, or 2) integration tests.
@@ -137,6 +137,6 @@ Archway standardizes and automates configuration management through the use of A
    * This review must also verify that any actions performed by authenticated users will generate appropriate audit log entries.
 6. Once the review process finishes, each reviewer should leave a comment on the pull request saying "looks good to me" (often abbreviated as "LGTM"), at which point the original author(s) may merge their change into the release branch.
 
-## 9.7 Software Release Procedures
+## 8.7 Software Release Procedures
 
 1. Software releases are treated as changes to existing systems and thus follow the procedure described in [§9.4](#9.4-changing-existing-systems).

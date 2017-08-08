@@ -1,4 +1,4 @@
-# 8. Auditing Policy
+# 7. Auditing Policy
 
 Archway shall audit access and activity of electronic protected health information (ePHI) applications and systems in order to ensure compliance. The Security Rule requires healthcare organizations to implement reasonable hardware, software, and/or procedural mechanisms that record and examine activity in information systems that contain or use ePHI. Audit activities may be limited by application, system, and/or network auditing capabilities and resources. Archway shall make reasonable and good-faith efforts to safeguard information privacy and security through a well-thought-out approach to auditing that is consistent with available resources.
 
@@ -12,9 +12,9 @@ It is the policy of Archway to safeguard the confidentiality, integrity, and ava
 
 This policy applies to all Archway Add-on systems, including BaaS, that store, transmit, or process ePHI. This policy, and associated procedures, do not apply to PaaS Customers that do not choose Archway Logging Service.
 
-## 8.1 Applicable Standards
+## 7.1 Applicable Standards
 
-### 8.1.1 Applicable Standards from the HITRUST Common Security Framework
+### 7.1.1 Applicable Standards from the HITRUST Common Security Framework
 
 * 0.a Information Security Management Program
 * 01.a Access Control Policy
@@ -25,7 +25,7 @@ This policy applies to all Archway Add-on systems, including BaaS, that store, t
 * 09.ab - Monitoring System Use
 * 06.e - Prevention of Misuse of Information
 
-### 8.1.2 Applicable Standards from the HIPAA Security Rule
+### 7.1.2 Applicable Standards from the HIPAA Security Rule
 
 * 45 CFR §164.308(a)(1)(ii)(D) - Information System Activity Review
 * 45 CFR §164.308(a)(5)(ii)(B) & &lpar;C&rpar; - Protection from Malicious Software & Log-in Monitoring
@@ -34,7 +34,7 @@ This policy applies to all Archway Add-on systems, including BaaS, that store, t
 * 45 CFR §164.312&lpar;c&rpar;(2) - Mechanism to Authenticate ePHI
 * 45 CFR §164.312(e)(2)(i) - Integrity Controls
 
-## 8.2 Auditing Policies
+## 7.2 Auditing Policies
 
 1. Responsibility for auditing information system access and activity is assigned to Archway's Security Officer. The Security Officer shall:
    * Assign the task of generating reports for audit activities to the workforce member responsible for the application, system, or network;
@@ -70,7 +70,7 @@ This policy applies to all Archway Add-on systems, including BaaS, that store, t
     * Testing shall be done on a routine basis, currently monthly.
 14. Software patches and updates will be applied to all systems in a timely manner.
 
-## 8.3 Audit Requests
+## 7.3 Audit Requests
 
 1. A request may be made for an audit for a specific cause. The request may come from a variety of sources including, but not limited to, Privacy Officer, Security Officer, Customer, Partner, or an Application owner or application user.
 2. A request for an audit for specific cause must include time frame, frequency, and nature of the request. The request must be reviewed and approved by Archway's Privacy or Security Officer.
@@ -78,14 +78,14 @@ This policy applies to all Archway Add-on systems, including BaaS, that store, t
    * Should the audit disclose that a workforce member has accessed ePHI inappropriately, the minimum necessary/least privileged information shall be shared with Archway's Security Officer to determine appropriate sanction/corrective disciplinary action.
    * Only de-identified information shall be shared with Customer or Partner regarding the results of the investigative audit process. This information will be communicated to the appropriate personnel by Archway's Privacy Officer or designee. Prior to communicating with customers and partners regarding an audit, it is recommended that Archway consider seeking risk management and/or legal counsel.
 
-## 8.4 Review and Reporting of Audit Findings
+## 7.4 Review and Reporting of Audit Findings
 
 1. Audit information that is routinely gathered must be reviewed in a timely manner, currently monthly, by the responsible workforce member(s). On a quarterly basis, logs are reviewed to assure the proper data is being captured and retained. The following process details how log reviews are done at Archway:
-  1. The Security Officer initiates the log review by creating a Card in the Compliance Review Activity (CRA) List in the Trello Compliance board.
+  1. The Security Officer initiates the log review by creating an Issue in the Compliance Review Activity (CRA) Project.
   2. The Security Officer, or a Archway Security Engineer assigned by the Security Officer, is assigned to review the logs.
-  3. Relevant audit log findings are added to the Issue; these findings are investigated in a later step. Once those steps are completed, the Card is then reviewed again.
-  4. Once the review is completed, the Security Officer approves or rejects the Card. Relevant findings are reviewed at this stage. If the Card is rejected, it goes back for further review and documentation. The communications protocol around specific findings are outlined below.
-  5. If the Card is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
+  3. Relevant audit log findings are added to the Issue; these findings are investigated in a later step. Once those steps are completed, the Issue is then reviewed again.
+  4. Once the review is completed, the Security Officer approves or rejects the Issue. Relevant findings are reviewed at this stage. If the Issue is rejected, it goes back for further review and documentation. The communications protocol around specific findings are outlined below.
+  5. If the Issue is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
 2. The reporting process shall allow for meaningful communication of the audit findings to those workforce members, Customers, or Partners requesting the audit.
    * Significant findings shall be reported immediately in a written format. Archway's security incident response form may be utilized to report a single event.
    * Routine findings shall be reported to the sponsoring leadership structure in a written report format.
@@ -94,13 +94,13 @@ This policy applies to all Archway Add-on systems, including BaaS, that store, t
 5. Whenever indicated through evaluation and reporting, appropriate corrective actions must be undertaken. These actions shall be documented and shared with the responsible workforce members, Customers, and/or Partners.
 6. Log review activity is monitored on a quarterly basis using Trello list to assess compliance with above policy.
 
-## 8.5 Auditing Customer and Partner Activity
+## 7.5 Auditing Customer and Partner Activity
 
 1. Periodic monitoring of Customer and Partner activity shall be carried out to ensure that access and activity is appropriate for privileges granted and necessary to the arrangement between Archway and the 3rd party. Archway will make every effort to assure Customers and Partners do not gain access to data outside of their own Environments.
 2. If it is determined that the Customer or Partner has exceeded the scope of access privileges, Archway's leadership must remedy the problem immediately.
 3. If it is determined that a Customer or Partner has violated the terms of the HIPAA business associate agreement or any terms within the HIPAA regulations, Archway must take immediate action to remediate the situation. Continued violations may result in discontinuation of the business relationship.
 
-## 8.6 Audit Log Security Controls and Backup
+## 7.6 Audit Log Security Controls and Backup
 
 1. Audit logs shall be protected from unauthorized access or modification, so the information they contain will be made available only if needed to evaluate a security incident or for routine audit activities as outlined in this policy.
 2. All audit logs are protected in transit and encrypted at rest to control access to the content of the logs.
@@ -109,12 +109,12 @@ This policy applies to all Archway Add-on systems, including BaaS, that store, t
    * Archway logging servers include Elasticsearch, Logstash, and Kibana (ELK) as part of their baseline configuration to ease reviewing of audit log data. The ELK toolkit provides message summarization, reduction, and reporting functionality.
 4. For PaaS Customers choosing to use Archway logging services, log data will be separated from the log data of other Archway Customers.
 
-## 8.7 Workforce Training, Education, Awareness and Responsibilities
+## 7.7 Workforce Training, Education, Awareness and Responsibilities
 
 1. Archway workforce members are provided training, education, and awareness on safeguarding the privacy and security of business and ePHI. Archway's commitment to auditing access and activity of the information applications, systems, and networks is communicated through new employee orientation, ongoing training opportunities and events, and applicable policies. Archway workforce members are made aware of responsibilities with regard to privacy and security of information as well as applicable sanctions/corrective disciplinary actions should the auditing process detect a workforce member's failure to comply with organizational policies.
 2. Archway Customers are provided with necessary information to understand Archway auditing capabilities, and PaaS Customers can choose the level of logging and auditing that Archway will implement on their behalf.
 
-## 8.8 External Audits of Information Access and Activity
+## 7.8 External Audits of Information Access and Activity
 
 1. Prior to contracting with an external audit firm, Archway shall:
    * Outline the audit responsibility, authority, and accountability;
@@ -124,7 +124,7 @@ This policy applies to all Archway Add-on systems, including BaaS, that store, t
    * Obtain a signed HIPAA business associate agreement;
    * Assign organizational responsibility for supervision of the external audit firm.
 
-## 8.9 Retention of Audit Data
+## 7.9 Retention of Audit Data
 
 1. Audit logs shall be maintained based on organizational needs. There is no standard or law addressing the retention of audit log/trail information. Retention of this information shall be based on:
    * Organizational history and experience.
@@ -133,7 +133,7 @@ This policy applies to all Archway Add-on systems, including BaaS, that store, t
 3. Audit log data is retained locally on the audit log server for a one-month period. Beyond that, log data is encrypted and moved to warm storage (currently S3) using automated scripts, and is retained for a minimum of one year.
 4. For Paas Customers, they choose the length of backup retention and availability that Archway will implement and enforce.
 
-## 8.10 Potential Trigger Events
+## 7.10 Potential Trigger Events
 
 * High risk or problem prone incidents or events.
 * Business associate, customer, or partner complaints.

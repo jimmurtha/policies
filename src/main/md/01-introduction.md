@@ -49,12 +49,13 @@ Archway, at its sole discretion, shares audit reports, including its HITRUST rep
 
 The following process is used to request audit reports:
 
-1. Email is sent to compliance-reports@archwayha.com. In the email, please specify the type of report being requested and any required timelines for the report.
-2. Archway staff will log an Issue with the details of the request into the Archway Compliance Review Activities list within the Compliance board on Trello. Trello is used is used to track requests status and outcomes.
+1. Email is sent to compliance@archwayha.com. In the email, please specify "Compliance Reports" in the Subject and the type of report being requested and any required timelines for the report in the body.
+2. Archway staff will log an Issue with the details of the request into the Archway Compliance Review Activities Project. 
+3. Trello and/or JIRA is used is used to track requests status and outcomes.
 3. Archway will confirm if a current NDA is in place with the party requesting the audit report. If there is no NDA in place, Archway will send one for execution.
-4. Once it has been confirmed that an NDA is executed, Archway staff will label the Trello Card as "Under Review".
-5. The Archway Security and Privacy Officer must Approve or Reject the Card. If the Card is rejected, Archway will notify the requesting party that we cannot share the requested report.
-4. If the Issue has been Approved, Archway will send the customer the requested audit report and complete the Trello Card for the request.
+4. Once it has been confirmed that an NDA is executed, Archway staff will label the Issue as "Under Review".
+5. The Archway Security and Privacy Officer must Approve or Reject the Issue. If the Issue is rejected, Archway will notify the requesting party that we cannot share the requested report.
+4. If the Issue has been Approved, Archway will send the customer the requested audit report and complete the Issue for the request.
 
 ## 1.6 Version Control
 
