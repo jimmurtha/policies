@@ -15,7 +15,7 @@ The Administrative Simplification provisions of the Act were effective in 2002 a
 
 HIPAA assigns covered entities with the responsibility of securing patient health information and enforcing confidentiality standards. Covered entities include healthcare information networks, health plans, and health care providers. Organizations must adhere to rules involving patient privacy and security by implementing HIPAA administrative and technology-based procedures.
 
-Archway Health Advisors recognizes the importance of HIPAA and as such, has designated a Security & Privacy Officer responsible for the organization’s compliance with this law. You may contact our Security & Privacy Officer directly at: dsc@archwayha.com.
+Archway Health Advisors recognizes the importance of HIPAA and as such, has designated a Security & Privacy Officer responsible for the organization’s compliance with this law. You may contact our Security & Privacy Officer directly at: compliance 'at' archwayha.com.
 
 ## Policy Index
 
