@@ -38,5 +38,6 @@ All Sensitive information is transmitted and stored securely:
 * AES-256 encryption is used to store objects on AWS Simple Storage Service (S3). S3 is used to store data in the long term (e.g. to provide Data Custody for Customers).
 * AWS IAM Rules are in place as a deny-by-default access for S3. Only approved Archway Employees are granted access.
 * AWS Elastic Block Storage (EBS) Volumes are encrypted prior to storing Sensitive Information. EBS is used to store data temporarily (e.g. to run data analysis).
+* Google Drive can be used to store Sensitive information. Google Drive is HIPAA compliant and Archway signed a BAA with Google.
 * Encryption (BitLocker for Windows, FileVault for Mac) is used on any computers storing Sensitive Information, even temporarily.
 * HTTPS/TLS is used to transmit Sensitive Information.
