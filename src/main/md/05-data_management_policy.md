@@ -11,6 +11,7 @@ Violation of this policy and its procedures by workforce members may result in c
 ### 5.1.1 Applicable Standards from the HITRUST Common Security Framework
 
 * 01.v - Information Access Restriction
+* 06.d - Data Protection and Privacy of Covered Information
 
 ### 5.1.2 Applicable Standards from the HIPAA Security Rule
 
@@ -29,3 +30,13 @@ Violation of this policy and its procedures by workforce members may result in c
    * Where backup stored (or to whom it was provided)
 5. Securely encrypt stored backups in a manner that protects them from loss or environmental damage.
 6. Test backups and document that files have been completely and accurately restored from the backup media.
+
+## 5.3 Sensitive Information Storage
+
+All Sensitive information is transmitted and stored securely:
+
+* AES-256 encryption is used to store objects on AWS Simple Storage Service (S3). S3 is used to store data in the long term (e.g. to provide Data Custody for Customers).
+* AWS IAM Rules are in place as a deny-by-default access for S3. Only approved Archway Employees are granted access.
+* AWS Elastic Block Storage (EBS) Volumes are encrypted prior to storing Sensitive Information. EBS is used to store data temporarily (e.g. to run data analysis).
+* Encryption (BitLocker for Windows, FileVault for Mac) is used on any computers storing Sensitive Information, even temporarily.
+* HTTPS/TLS is used to transmit Sensitive Information.
