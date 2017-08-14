@@ -141,7 +141,8 @@ All workstations at Archway are company owned, and all are laptop Apple products
 
 ## 6.11 Paper Records
 
-Archway does not use paper records for any sensitive information. Use of paper for recording and storing sensitive data is against Archway policies.
+Archway discourages use of paper records for any sensitive information but can accommodate according to Customer's needs. 
+For PHI in paper records, Archway either shred, burn, pulp, or pulverize records io that PHI is rendered essentially unreadable, indecipherable, and otherwise cannot be reconstructed.
 
 ## 6.12 Password Management
 
