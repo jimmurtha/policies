@@ -107,7 +107,6 @@ This policy applies to all Archway Add-on systems, including BaaS, that store, t
 3. Audit logs shall be stored on a separate system to minimize the impact auditing may have on the privacy system and to prevent access to audit trails by those with system administrator privileges.
    * Separate systems are used to apply the security principle of "separation of duties" to protect audit trails from hackers.
    * [In Progress] Archway logging servers include Elasticsearch, Logstash, and Kibana (ELK) as part of their baseline configuration to ease reviewing of audit log data. The ELK toolkit provides message summarization, reduction, and reporting functionality.
-4. Logs should be retained for at least sixty (60) days.
 4. For PaaS Customers choosing to use Archway logging services, log data will be separated from the log data of other Archway Customers.
 
 ## 7.7 Workforce Training, Education, Awareness and Responsibilities
@@ -130,9 +129,7 @@ This policy applies to all Archway Add-on systems, including BaaS, that store, t
 1. Audit logs shall be maintained based on organizational needs. There is no standard or law addressing the retention of audit log/trail information. Retention of this information shall be based on:
    * Organizational history and experience.
    * Available storage space.
-2. Reports summarizing audit activities shall be retained for a period of six years.
-3. Audit log data is retained locally on the audit log server for a one-month period. Beyond that, log data is encrypted and moved to warm storage (currently S3) using automated scripts, and is retained for a minimum of one year.
-4. For Paas Customers, they choose the length of backup retention and availability that Archway will implement and enforce.
+2. Log data shall be retained for at least sixty (60) days.
 
 ## 7.10 Potential Trigger Events
 
