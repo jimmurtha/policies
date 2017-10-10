@@ -106,7 +106,8 @@ This policy applies to all Archway Add-on systems, including BaaS, that store, t
 2. All audit logs are protected in transit and encrypted at rest to control access to the content of the logs.
 3. Audit logs shall be stored on a separate system to minimize the impact auditing may have on the privacy system and to prevent access to audit trails by those with system administrator privileges.
    * Separate systems are used to apply the security principle of "separation of duties" to protect audit trails from hackers.
-   * Archway logging servers include Elasticsearch, Logstash, and Kibana (ELK) as part of their baseline configuration to ease reviewing of audit log data. The ELK toolkit provides message summarization, reduction, and reporting functionality.
+   * [In Progress] Archway logging servers include Elasticsearch, Logstash, and Kibana (ELK) as part of their baseline configuration to ease reviewing of audit log data. The ELK toolkit provides message summarization, reduction, and reporting functionality.
+4. Logs should be retained for at least sixty (60) days.
 4. For PaaS Customers choosing to use Archway logging services, log data will be separated from the log data of other Archway Customers.
 
 ## 7.7 Workforce Training, Education, Awareness and Responsibilities
