@@ -20,8 +20,7 @@ Archway is committed to ensuring all workforce members actively address security
 
 1. All new workforce members, including contractors, are given training on security policies and procedures, including operations security, within 30 days of employment.
    * Records of training are kept for all workforce members.
-   * Upon completion of training, workforce members complete this [form](https://docs.google.com/a/catalyze.io/forms/d/1bmEK3TidACj6ForBqGMaINPjIckv9ht28rtkGEQsBGs/viewform?usp=send_form).
-   * Current Archway training is hosted at [training.datica.com](https://training.datica.com/).
+   * Upon completion of training, Security Officer must complete attendance form.
    * Employees must complete this training before accessing production systems containing ePHI.
 2. All workforce members are granted access to formal organizational policies, which include the sanction policy for security violations.
 3. The Archway Employee Handbook clearly states the responsibilities and acceptable behavior regarding information system usage, including rules for email, Internet, mobile devices, and social media usage.
@@ -30,7 +29,6 @@ Archway is committed to ensuring all workforce members actively address security
 4. Archway does not allow mobile devices to connect to any of its production networks.
 5. All workforce members are educated about the approved set of tools to be installed on workstations.
 6. All new workforce members are given HIPAA training within 30 days of beginning employment. Training includes HIPAA reporting requirements, including the ability to report security incidents, and the levels of compliance and obligations for Archway and its Customers and Partners.
-   * Current Archway training is hosted at [training.datica.com](https://training.datica.com/).
 7. All remote (teleworking) workforce members are trained on the risks, the controls implemented, their responsibilities, and sanctions associated with violation of policies. Additionally, remote security is maintained through the use of VPN tunnels for all access to production systems with access to ePHI data.
 8. All Archway-purchased and -owned computers are to display this message at login and when the computer is unlocked: *This computer is owned by Archway Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.datica.com) and have completed this training (https://training.datica.com). Please contact us if you have problems with this - privacy@datica.com*.
 9. Employees may only use Archway-purchased and -owned workstations for accessing production systems with access to ePHI data.
