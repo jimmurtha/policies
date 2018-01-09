@@ -12,10 +12,13 @@ Violation of this policy and its procedures by workforce members may result in c
 
 * 01.v - Information Access Restriction
 * 06.d - Data Protection and Privacy of Covered Information
+* 09.p - Disposal of Media
+* 08.l - Secure Disposal or Re-Use of Equipment
 
 ### 5.1.2 Applicable Standards from the HIPAA Security Rule
 
 * 164.308(a)(7)(ii)(A) - Data Backup Plan
+* 164.310(d)(2)(i) - Disposal
 * 164.310(d)(2)(iii) - Accountability
 * 164.310(d)(2)(iv) - Data Backup and Storage
 
@@ -41,3 +44,12 @@ All Sensitive information is transmitted and stored securely:
 * Google Drive can be used to store Sensitive information. Google Drive is HIPAA compliant and Archway signed a BAA with Google.
 * Encryption (BitLocker for Windows, FileVault for Mac) is used on any computers storing Sensitive Information, even temporarily.
 * HTTPS/TLS is used to transmit Sensitive Information.
+
+## 5.4 Disposal of Sensitive Information
+
+Data remanence is the residual representation of digital data that remains even after attempts have been made to remove or erase the data. 
+This residue may result from data being left intact by a nominal file deletion operation, by reformatting of storage media that does not remove data previously written to the media, or through physical properties of the storage media that allow previously written data to be recovered. 
+Data remanence may make inadvertent disclosure of sensitive information possible should the storage media be released into an uncontrolled environment (e.g., thrown in the trash or lost).
+
+* Amazon Web Services (AWS) has policies in place on decommissioning storage devices (see "Physical and Environmental Security - Storage Device Decommissioning" at https://d0.awsstatic.com/whitepapers/aws-security-whitepaper.pdf)
+* Sensitive information stored on encrypted Elastic Block Storage (EBS) Volumes must be scrubbed using at current standards (at least DoD 5220.22-M, 4-pass, pattern).
