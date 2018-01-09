@@ -52,4 +52,4 @@ This residue may result from data being left intact by a nominal file deletion o
 Data remanence may make inadvertent disclosure of sensitive information possible should the storage media be released into an uncontrolled environment (e.g., thrown in the trash or lost).
 
 * Amazon Web Services (AWS) has policies in place on decommissioning storage devices (see "Physical and Environmental Security - Storage Device Decommissioning" at https://d0.awsstatic.com/whitepapers/aws-security-whitepaper.pdf)
-* Sensitive information stored on encrypted Elastic Block Storage (EBS) Volumes must be scrubbed using at current standards (at least DoD 5220.22-M, 4-pass, pattern).
+* Sensitive information stored on encrypted Elastic Block Storage (EBS) Volumes are scrubbed using current industry standards (at least DoD 5220.22-M, 4-pass, pattern).
