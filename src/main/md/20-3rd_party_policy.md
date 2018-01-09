@@ -40,4 +40,4 @@ Archway makes every effort to assure all 3rd party organizations are compliant a
 9. Regular review is conducted as required by SLAs to assure security and compliance. These reviews include reports, audit trails, security events, operational issues, failures and disruptions, and identified issues are investigated and resolved in a reasonable and timely manner.
 10. Any changes to Partner and Subcontractor services and systems are reviewed before implementation.
 11. For all partners, Archway reviews activity annually to assure partners are in line with SLAs in contracts with Archway.
-12. SLA review is monitored on a quarterly basis using Trello list to assess compliance with above policy.
+12. SLA review is monitored on a quarterly basis using JIRA reports to assess compliance with above policy.

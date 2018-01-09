@@ -40,7 +40,7 @@ This policy establishes the scope, objectives, and procedures of Archway's infor
   3. All findings are documented in approved spreadsheet that is linked to the Issue.
   4. Once the Risk Management Procedures are complete, along with corresponding documentation, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
   5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
-9. The Risk Management Procedure is monitored on a quarterly basis using Trello list to assess compliance with above policy.
+9. The Risk Management Procedure is monitored on a quarterly basis using JIRA reports to assess compliance with above policy.
 
 ## 3.3 Risk Management Procedures
 

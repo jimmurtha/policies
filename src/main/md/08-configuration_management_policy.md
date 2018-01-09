@@ -22,7 +22,7 @@ Archway standardizes and automates configuration management through the use of A
 6. Tooling to generate an up-to-date inventory of systems, including corresponding architecture diagrams for related products and services, is hosted on GitLab.
    * All systems are categorized as production and utility to differentiate based on criticality.
    * The Security Officer maintains scripts to generate inventory lists on demand using APIs provided by each cloud provider.
-   * These scripts are used to generate the diagrams and asset lists required by the Risk Assessment phase of Archway's Risk Management procedures ([§4.3.1](#4.3-risk-management-procedures)).
+   * These scripts are used to generate the diagrams and asset lists required by the Risk Assessment phase of Archway's Risk Management procedures ([§3.3.1](#3.3-risk-management-procedures)).
    * After every use of these scripts, the Security Officer will verify their accuracy by reconciling their output with recent changes to production systems. The Security Officer will address any discrepancies immediately with changes to the scripts.
 7. All frontend functionality (developer dashboards and portals) is separated from backend (database and app servers) systems by being deployed on separate servers or containers.
 8. All software and systems are tested using unit tests and end to end tests.
@@ -38,8 +38,8 @@ Archway standardizes and automates configuration management through the use of A
 ## 8.3 Provisioning Production Systems
 
 1. Before provisioning any systems, ops team members must file a request in the Deployment Activity (DA) Project.
-   * Trello access requires authenticated users.
-   * The CTO grants access to the DA project following the procedures covered in the [Access Establishment and Modification section](#7.2-access-establishment-and-modification).
+   * JIRA access requires authenticated users.
+   * The CTO grants access to the DA project following the procedures covered in the [Access Establishment and Modification section](#6.2-access-establishment-and-modification).
 2. The VP Engineering or CTO must approve the provisioning request before any new system can be provisioned.
 3. Once provisioning has been approved, the ops team member must configure the new system according to the standard baseline chosen for the system's role.
    * For Linux systems, this means adding the appropriate grains to the Salt configuration file and running a `highstate` operation.
@@ -67,7 +67,7 @@ Archway standardizes and automates configuration management through the use of A
    * Installing and configuring the NTP daemon, including ensuring that modifying system time cannot be performed by unprivileged users.
    * Configuring LUKS volumes for providers that do not have native support for encrypted data volumes, including ensuring that encryption keys are protected from unauthorized access.
    * Configuring authentication to the centralized LDAP servers.
-   * Configuring audit logging as described in the [Auditing Policy section](#8.-auditing-policy).
+   * Configuring audit logging as described in the [Auditing Policy section](#7.-auditing-policy).
 2. Any additional Salt states applied to the Linux system must be clearly documented by the ops team member in the DT request by specifying the purpose of the new system.
 
 ### 8.3.2 Provisioning Windows Systems

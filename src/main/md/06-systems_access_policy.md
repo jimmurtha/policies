@@ -52,7 +52,7 @@ Access to Archway systems and application is limited for all users, including bu
    3. If user access is found during review that is not in line with the least privilege principle, the process below is used to modify user access and notify the user of access changes. Once those steps are completed, the Issue is then reviewed again.
    4. Once the review is completed, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
    5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
-   6. Review of user access is monitored on a quarterly basis using Trello list to assess compliance with above policy.
+   6. Review of user access is monitored on a quarterly basis using JIRA reports to assess compliance with above policy.
 5. Any Archway workforce member can request change of access using the process outlined in [§7.2 paragraph 1](#7.2-access-establishment-and-modification).
 6. Access to production systems is controlled using centralized user management and authentication.
 7. Temporary accounts are not used unless absolutely necessary for business purposes.
@@ -173,8 +173,6 @@ For PHI in paper records, Archway either shred, burn, pulp, or pulverize records
 	* Email is sent to user to either initiate password reset process or report abuse.
     * User clicks on unique and time-sensitive link to initiate password reset process.
     * User completes process to reset password.
-
-The Password Reset Activity list in the Compliance Trello Board is is used to track and store password reset requests.
 
 ## 6.13 Access to ePHI
 

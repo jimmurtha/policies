@@ -92,7 +92,7 @@ This policy applies to all Archway Add-on systems, including BaaS, that store, t
 3. Reports of audit results shall be limited to internal use on a minimum necessary/need-to-know basis. Audit results shall not be disclosed externally without administrative and/or legal counsel approval.
 4. Security audits constitute an internal, confidential monitoring practice that may be included in Archway's performance improvement activities and reporting. Care shall be taken to ensure that the results of the audits are disclosed to administrative level oversight structures only and that information which may further expose organizational risk is shared with extreme caution. Generic security audit information may be included in organizational reports (individually-identifiable e PHI shall not be included in the reports).
 5. Whenever indicated through evaluation and reporting, appropriate corrective actions must be undertaken. These actions shall be documented and shared with the responsible workforce members, Customers, and/or Partners.
-6. Log review activity is monitored on a quarterly basis using Trello list to assess compliance with above policy.
+6. Log review activity is monitored on a quarterly basis using JIRA reports to assess compliance with above policy.
 
 ## 7.5 Auditing Customer and Partner Activity
 
