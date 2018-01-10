@@ -41,8 +41,6 @@ Archway standardizes and automates configuration management through the use of A
    * The CTO grants access to the DA project following the procedures covered in the [Access Establishment and Modification section](#6.2-access-establishment-and-modification).
 2. The VP Engineering or CTO must approve the provisioning request before any new system can be provisioned.
 3. Once provisioning has been approved, the ops team member must configure the new system according to the standard baseline chosen for the system's role.
-   * For Linux systems, this means adding the appropriate grains to the Salt configuration file and running a `highstate` operation.
-   * For Windows systems, this means adding the appropriate roles to the system's Chef profile and forcing a Chef run.
 4. If the system will be used to house production data (ePHI), the ops team member must add an encrypted block data volume to the VM during provisioning.
    * For systems on AWS, the ops team member must add an encrypted Elastic Block Storage (EBS) volume.
    * For systems on other cloud providers, the ops team member must add a block data volume and set up OS-level data encryption using Salt or Chef.
@@ -50,17 +48,17 @@ Archway standardizes and automates configuration management through the use of A
    * Removal of default users used during provisioning.
    * Network configuration for system.
    * Data volume encryption settings.
-   * Intrusion detection and virus scanning software installed.
+   * Intrusion detection and virus scanning software installed and active
    * All items listed below in the operating system-specific subsections below.
 6. Once the security team member has verified the new system is correctly configured, the team member must add that system to the Nessus security scanner configuration.
 7. The new system may be rotated into production once the CTO verifies all the provisioning steps listed above have been correctly followed and has marked the Issue with the `Approved` state.
 
 ### 8.3.1 Provisioning Linux Systems
 
-1. Linux systems have their baseline security configuration applied via Salt states. These baseline Salt states cover:
+1. Linux systems baseline security configuration consist of:
    * Ensuring that the machine is up-to-date with security patches and is configured to apply patches in accordance with our policies.
    * Stopping and disabling any unnecessary OS services.
-   * Installing and configuring the OSSEC IDS agent.
+   * Installing and configuring IDS agent.
    * Configuring 15-minute session inactivity timeouts.
    * Installing and configuring the ClamAV virus scanner.
    * Installing and configuring the NTP daemon, including ensuring that modifying system time cannot be performed by unprivileged users.
@@ -71,17 +69,17 @@ Archway standardizes and automates configuration management through the use of A
 
 ### 8.3.2 Provisioning Windows Systems
 
-1. Windows systems have their baseline security configuration applied via the combination of Group Policy settings and Chef recipes. These baseline settings cover:
-   * Joining the Windows Domain Controller and applying the Active Directory Group Policy configuration.
+1. Windows systems baseline security configuration consist of:
+   * Joining the Windows Domain Controller and applying the Active Directory Group Policy configuration (when applicable)
    * Ensuring that the machine is up-to-date with security patches and is configured to apply patches in accordance with our policies.
    * Stopping and disabling any unnecessary OS services.
-   * Installing and configuring the OSSEC IDS agent.
+   * Installing and configuring IDS agent.
    * Configuring 15-minute session inactivity timeouts.
-   * Installing and configuring the Avast virus scanner.
+   * Ensuring Windows Defender or other antivirus is installed and active
    * Configuring transport encryption according to the requirements described in [§17.9](#17.9-transmission-security).
    * Configuring the system clock, including ensuring that modifying system time cannot be performed by unprivileged users.
    * Configuring audit logging as described in the [Auditing Policy section](#8.-auditing-policy).
-2. Any additional Salt states applied to the Linux system must be clearly documented by the ops team member in the DT request by specifying the purpose of the new system.
+2. Any additional Salt states applied to the Windows system must be clearly documented by the ops team member in the DT request by specifying the purpose of the new system.
 
 ### 8.3.3 Provisioning Management Systems
 
