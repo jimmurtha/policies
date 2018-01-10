@@ -28,7 +28,7 @@ Archway is committed to ensuring all workforce members actively address security
    * A Human Resources representative will provide the agreement to new employees during their onboarding process.
 4. Archway does not allow mobile devices to connect to any of its production networks.
 5. All workforce members are educated about the approved set of tools to be installed on workstations.
-6. All remote (teleworking) workforce members are trained on the risks, the controls implemented, their responsibilities, and sanctions associated with violation of policies. Additionally, remote security is maintained through the use of VPN tunnels for all access to production systems with access to ePHI data.
+6. All remote (teleworking) workforce members are trained on the risks, the controls implemented, their responsibilities, and sanctions associated with violation of policies. Additionally, remote security is maintained through the use of secure protocols (HTTPS/SSH) for all access to production systems.
 7. All Archway-purchased and -owned computers are to display this message at login and when the computer is unlocked: *This computer is owned by Archway Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://github.com/Archway-Health/policies) and have completed the Security Awareness training. Please contact us if you have problems with this - privacy@archwayha.com*.
 8. Employees may only use Archway-purchased and -owned workstations for accessing production systems with access to ePHI data.
    * Any workstations used to access production systems must be configured as prescribed in [§6.8](#6.8-employee-workstation-use).
