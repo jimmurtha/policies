@@ -149,7 +149,7 @@ For PHI in paper records, Archway either shred, burn, pulp, or pulverize records
 1. User IDs and passwords are used to control access to Archway systems and may not be disclosed to anyone for any reason.
 2. Users may not allow anyone, for any reason, to have access to any information system using another user's unique user ID and password.
 3. On all production systems and applications in the Archway environment, password configurations are set to require at the minimum the following:
-   * a minimum length of 8 characters;
+   * a minimum length of 10 characters;
    * a mix of upper case characters, lower case characters, and numbers or special characters;
    * administrative accounts must have Multi-Factor Authentication (MFA) enabled;
    * a 90-day password expiration, or 60-day password expiration for non-administrative accounts (waived when 2FA enabled);
