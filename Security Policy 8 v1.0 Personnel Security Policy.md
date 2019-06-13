@@ -72,7 +72,7 @@ achievement of objectives. [[a]](#cmnt_ref1)
 Define and clearly communicate to job candidates the relative security
 roles and responsibilities of the position during the pre-employment
 process. Including any involvement in processing covered information
-documented in relevant job descriptions.[[b]](#cmnt2)
+documented in relevant job descriptions.[[b]](#cmnt_ref2)
 
 Terms and conditions of employment
 
