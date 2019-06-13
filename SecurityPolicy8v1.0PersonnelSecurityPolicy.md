@@ -46,7 +46,7 @@ Personnel who have questions regarding this Policy should consult with
 the Chief Security Officer or her/his designate.
 
 4.  Risk Statement
-    ==============
+==================
 
 This Policy is necessary for the consistent processing of new personnel
 in order to ensure the new personnel’s fitness for employment.
@@ -62,7 +62,7 @@ steps are performed as necessary with the utmost regard for the
 potential new employee’s privacy.
 
 5.  Requirements
-    ============
+================
 
 Attracts, Develops, and Retains Individual Archway Health provides the
 mentoring and training needed to attract, develop, and retain sufficient
@@ -172,7 +172,7 @@ to enable anonymous or confidential communication when normal channels
 are inoperative or ineffe^[[n]](#cmnt14)^ctive.
 
 6.  Management Commitment
-    =====================
+=========================
 
 Archway Health is committed to protecting its employees, partners,
 clients, Archway Health, and the data Archway Health houses from illegal
@@ -181,7 +181,7 @@ or damaging actions by individuals, either knowingly or unknowingly.
 commitment.^[[o]](#cmnt15)^
 
 7.  Coordination among Organizational Entities
-    ==========================================
+==============================================
 
 Archway Health wants all organizational entities to cooperate and
 coordinate with each other to ensure the effectiveness of the
@@ -190,7 +190,7 @@ Information Security Program.
 ^[[p]](#cmnt16)^
 
 8.  Compliance
-    ==========
+==============
 
 Compliance is mandatory.  Violation of this policy may result in (but is
 not limited to) loss of access privileges, termination of employment,
@@ -200,7 +200,7 @@ Health.
 ^[[q]](#cmnt17)^
 
 9.  Key Responsibilities {style="display:inline"}
-    ====================
+========================
 
 Managers must:
 
@@ -233,7 +233,7 @@ Human Resources Department must:
 -   Jointly maintain this policy with the Chief Security Officer.
 
 10. Disciplinary Actions {style="display:inline"}
-    ====================
+========================
 
 Violations of the Security Policies (without prior written approval from
 the Chief Security Officer or her/his designate) will result in
@@ -245,7 +245,7 @@ accordance with applicable law.
 ^[[s]](#cmnt19)^
 
 11. Regulatory and Standards Compliance {#h.1fob9te style="display:inline"}
-    ===================================
+=======================================
 
 This policy complies with ISO 27001:2013, 2017 Trust Services Criteria
 for SOC 2, GDPR, HITRUST v9.2, NIST SP 800-53, and MA 201 C.M.R 17.00 et
