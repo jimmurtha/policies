@@ -72,13 +72,13 @@ achievement of objectives.[[a]](#cmnt1)
 Define and clearly communicate to job candidates the relative security
 roles and responsibilities of the position during the pre-employment
 process. Including any involvement in processing covered information
-documented in relevant job descriptions.^[[b]](#cmnt2)^
+documented in relevant job descriptions.[[b]](#cmnt2)
 
 Terms and conditions of employment
 
 The contractual agreements with employees and contractors shall state
 their and the organization’s responsibilities for information
-security.^[[c]](#cmnt3)^
+security.[[c]](#cmnt3)
 
 Human Resources must have a formal set of pre-employment forms and
 requirements that are distributed to all potential new personnel once a
@@ -86,7 +86,7 @@ job offer is extended.
 
 The identify of the applicant must be ascertained by passport, and/or
 government issued identification in accordance with the requirements of
-an I-9 form^[[d]](#cmnt4)^.
+an I-9 form[[d]](#cmnt4).
 
 Because the pre-employment forms facilitate the collection of personal
 information, including credit information, information about education,
@@ -99,7 +99,7 @@ authorization prior to the collection of the information.
 Human Resources shall perform, or contract for the performance of a
 comprehensive background check to include the potential new employees’
 assertions of previous employment, education, and credentials
-earned.^[[e]](#cmnt5)^
+earned.[[e]](#cmnt5)
 
 In addition, the background check must include a credit check, criminal
 background check, drug, and reference checks and shall be proportional
@@ -124,19 +124,19 @@ access, credit cards, and mobile device(s) as required.
 All new personnel must sign the terms and conditions of the employment
 contract, which shall include their responsibilities for information
 security and include confidentiality and non-disclosure agreements prior
-to commencing employment.^[[g]](#cmnt7)^
+to commencing employment.[[g]](#cmnt7)
 
 All new personnel must complete new hire orientation, attend Security
 Awareness Education sessions and sign a document stating they understand
 the principles of the Security Awareness Education and are aware of any
 disciplinary actions that may arise if the employee were to violate the
-Information Security Policies of the organization.^[[h]](#cmnt8)^
+Information Security Policies of the organization.[[h]](#cmnt8)
 
 Annually Managers must evaluate the performance of individuals and teams
-against the entity’s expected standards of conduct.^[[i]](#cmnt9)^
+against the entity’s expected standards of conduct.[[i]](#cmnt9)
 
 Competent personnel with sufficient authority perform control activities
-with diligence and continuing focus.^[[j]](#cmnt10)^
+with diligence and continuing focus.[[j]](#cmnt10)
 
 Competence As part of the annual review Archway Health shall:
 
@@ -152,16 +152,16 @@ and evaluate the effectiveness
 of the actions taken; and
 
 ​d) retain appropriate documented information as evidence of
-competence.^[[k]](#cmnt11)^
+competence.[[k]](#cmnt11)
 
 Uses Knowledgeable Personnel Evaluators performing ongoing and separate
 evaluations have sufficient knowledge to understand what is being
-evaluated.^[[l]](#cmnt12)^
+evaluated.[[l]](#cmnt12)
 
 Segregation of duties Conflicting duties and areas of responsibility
 shall be segregated to reduce opportunities for unauthorized or
 unintentional modification or misuse of the organization’s
-assets.^[[m]](#cmnt13)^
+assets.[[m]](#cmnt13)
 
 For any questions regarding the Security Program or Security Policies,
 please consult with the Chief Security Officer or her/his designate.
@@ -169,7 +169,7 @@ please consult with the Chief Security Officer or her/his designate.
 Separate Communication Lines Separate communication channels, such as
 whistle-blower hotlines, are in place and serve as fail-safe mechanisms
 to enable anonymous or confidential communication when normal channels
-are inoperative or ineffe^[[n]](#cmnt14)^ctive.
+are inoperative or ineffe[[n]](#cmnt14)ctive.
 
 6.0  Management Commitment
 =========================
@@ -178,7 +178,7 @@ Archway Health is committed to protecting its employees, partners,
 clients, Archway Health, and the data Archway Health houses from illegal
 or damaging actions by individuals, either knowingly or unknowingly.
  This policy is a tool management uses to demonstrate and carry out its
-commitment.^[[o]](#cmnt15)^
+commitment.[[o]](#cmnt15)
 
 7.0  Coordination among Organizational Entities
 ==============================================
@@ -187,7 +187,7 @@ Archway Health wants all organizational entities to cooperate and
 coordinate with each other to ensure the effectiveness of the
 Information Security Program.
 
-^[[p]](#cmnt16)^
+[[p]](#cmnt16)
 
 8.0  Compliance
 ==============
@@ -197,7 +197,7 @@ not limited to) loss of access privileges, termination of employment,
 criminal charges and/or other actions, as deemed appropriate by Archway
 Health.
 
-^[[q]](#cmnt17)^
+[[q]](#cmnt17)
 
 9.0  Key Responsibilities
 ========================
@@ -242,9 +242,9 @@ to, employment termination and legal recourse against any person or
 entity whose action(s) directly or indirectly violate these policies, in
 accordance with applicable law.
 
-^[[s]](#cmnt19)^
+[[s]](#cmnt19)
 
-11. Regulatory and Standards Compliance {#h.1fob9te style="display:inline"}
+11.0 Regulatory and Standards Compliance
 =======================================
 
 This policy complies with ISO 27001:2013, 2017 Trust Services Criteria
