@@ -250,8 +250,7 @@ seq.
 | Date               | Revision           | Revised by         | Nature of Change   |
 | ------------------ | ------------------ | ------------------ | ------------------ |
 | 06/04/2019         | 1.0                | Keith S. Crumpton  | Created document   |
-| ------------------ | ------------------ | ------------------ | ------------------ |
-| 06/13/2019         | 1.01               | Jim Murtha         | Published on Github|
+| 06/13/2019         | 1.01               | Jim Murtha         | Published on Github |
 
 <a name="cmnt-ref1">[1]</a> - CC1.4
 
