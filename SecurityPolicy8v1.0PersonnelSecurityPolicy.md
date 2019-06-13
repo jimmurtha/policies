@@ -45,7 +45,7 @@ Compliance is mandatory.
 Personnel who have questions regarding this Policy should consult with
 the Chief Security Officer or her/his designate.
 
-4.  Risk Statement
+4.0  Risk Statement
 ==================
 
 This Policy is necessary for the consistent processing of new personnel
@@ -61,7 +61,7 @@ steps outlined further in this policy are stated in order to ensure the
 steps are performed as necessary with the utmost regard for the
 potential new employee’s privacy.
 
-5.  Requirements
+5.0  Requirements
 ================
 
 Attracts, Develops, and Retains Individual Archway Health provides the
@@ -171,7 +171,7 @@ whistle-blower hotlines, are in place and serve as fail-safe mechanisms
 to enable anonymous or confidential communication when normal channels
 are inoperative or ineffe^[[n]](#cmnt14)^ctive.
 
-6.  Management Commitment
+6.0  Management Commitment
 =========================
 
 Archway Health is committed to protecting its employees, partners,
@@ -180,7 +180,7 @@ or damaging actions by individuals, either knowingly or unknowingly.
  This policy is a tool management uses to demonstrate and carry out its
 commitment.^[[o]](#cmnt15)^
 
-7.  Coordination among Organizational Entities
+7.0  Coordination among Organizational Entities
 ==============================================
 
 Archway Health wants all organizational entities to cooperate and
@@ -189,7 +189,7 @@ Information Security Program.
 
 ^[[p]](#cmnt16)^
 
-8.  Compliance
+8.0  Compliance
 ==============
 
 Compliance is mandatory.  Violation of this policy may result in (but is
@@ -199,7 +199,7 @@ Health.
 
 ^[[q]](#cmnt17)^
 
-9.  Key Responsibilities {style="display:inline"}
+9.0  Key Responsibilities {style="display:inline"}
 ========================
 
 Managers must:
@@ -232,7 +232,7 @@ Human Resources Department must:
 
 -   Jointly maintain this policy with the Chief Security Officer.
 
-10. Disciplinary Actions {style="display:inline"}
+10.0 Disciplinary Actions {style="display:inline"}
 ========================
 
 Violations of the Security Policies (without prior written approval from
