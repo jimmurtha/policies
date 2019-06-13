@@ -72,7 +72,7 @@ achievement of objectives.[[1]](#cmnt-ref1)
 Define and clearly communicate to job candidates the relative security
 roles and responsibilities of the position during the pre-employment
 process. Including any involvement in processing covered information
-documented in relevant job descriptions.[[b]](#cmnt_ref2)
+documented in relevant job descriptions.[[2]](#cmnt-ref2)
 
 Terms and conditions of employment
 
@@ -253,7 +253,7 @@ seq.
 
 <a name="cmnt-ref1">[1]</a> - CC1.4
 
-[b](#cmnt_ref2)HITRUST 02.a
+<a name="cmnt-ref2">[2]</a> - HITRUST 02.a
 
 [[c]](#cmnt_ref3)CC2.3, AC-20, PL-4, PS-6, PS-7, ISO A7.1.2
 
