@@ -244,24 +244,14 @@ This policy complies with ISO 27001:2013, 2017 Trust Services Criteria
 for SOC 2, GDPR, HITRUST v9.2, NIST SP 800-53, and MA 201 C.M.R 17.00 et
 seq.
 
-Approved by:
+12.0        Revision History
+================
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name of person functioning as the
-
-Chief Security Officer
-
-Revision History
-
-+--------------------+--------------------+--------------------+--------------------+
 | Date               | Revision           | Revised by         | Nature of Change   |
-+--------------------+--------------------+--------------------+--------------------+
+| ------------------ | ------------------ | ------------------ | ------------------ |
 | 06/04/2019         | 1.0                | Keith S. Crumpton  | Created document   |
-+--------------------+--------------------+--------------------+--------------------+
 
-Security Policy 8      CONFIDENTIAL                                                          
-
+                                                     
 [[a]](#cmnt_ref1)CC1.4
 
 [[b]](#cmnt_ref2)HITRUST 02.a
