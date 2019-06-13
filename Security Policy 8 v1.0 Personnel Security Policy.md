@@ -216,7 +216,7 @@ Employees must:
 -   Protect assets from unauthorized access, disclosure, modification,
     destruction or interference;
 -   Execute particular security processes or activities;
-    and^[[r]](#cmnt18)^
+    and[[r]](#cmnt18)
 -   Report any policy violations or exception within a timely manner to
     their management and to the Chief Security Officer or her/his
     designate.
@@ -251,9 +251,9 @@ seq.
 | ------------------ | ------------------ | ------------------ | ------------------ |
 | 06/04/2019         | 1.0                | Keith S. Crumpton  | Created document   |
 
-[a](#cmnt-ref1) CC1.4
+[1][#cmnt-ref1] CC1.4
 
-[[b]](#cmnt_ref2)HITRUST 02.a
+[b](#cmnt_ref2)HITRUST 02.a
 
 [[c]](#cmnt_ref3)CC2.3, AC-20, PL-4, PS-6, PS-7, ISO A7.1.2
 
