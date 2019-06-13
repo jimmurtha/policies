@@ -67,7 +67,7 @@ potential new employee’s privacy.
 Attracts, Develops, and Retains Individual Archway Health provides the
 mentoring and training needed to attract, develop, and retain sufficient
 and competent personnel and outsourced service providers to support the
-achievement of objectives.[[a]](#cmnt1)
+achievement of objectives.[a](#cmnt_ref1)
 
 Define and clearly communicate to job candidates the relative security
 roles and responsibilities of the position during the pre-employment
@@ -251,7 +251,7 @@ seq.
 | ------------------ | ------------------ | ------------------ | ------------------ |
 | 06/04/2019         | 1.0                | Keith S. Crumpton  | Created document   |
 
-[[a]](#cmnt_ref1)CC1.4
+[a](#cmnt_ref1)CC1.4
 
 [[b]](#cmnt_ref2)HITRUST 02.a
 
