@@ -1,12 +1,8 @@
-Personnel
-
-Security Policy
-
-     
+Personnel Security Policy
 
 Effective Date:  June 4, 2019
 
-1.0        Purpose {.c16 .c26}
+1.0        Purpose
 ==================
 
 In order to create a safe and secure workplace and to ensure that
@@ -26,7 +22,7 @@ This policy is intended to support the verification of credentials,
 criminal history, and other information related to employment decisions
 that assist the organization in meeting its commitments.
 
-2.0        Definitions {.c26 .c16}
+2.0        Definitions
 ======================
 
 Definitions are located in the Information Security Program Definitions
@@ -36,7 +32,7 @@ If you do not find a definition for an unfamiliar term referenced within
 this document, please contact the Chief Security Officer or her/his
 designate for clarification.
 
-3.0        Scope {.c26 .c16}
+3.0        Scope
 ================
 
 This Policy applies to all potential new employees (whether full-time,
@@ -49,7 +45,7 @@ Compliance is mandatory.
 Personnel who have questions regarding this Policy should consult with
 the Chief Security Officer or her/his designate.
 
-4.  Risk Statement {style="display:inline"}
+4.  Risk Statement
     ==============
 
 This Policy is necessary for the consistent processing of new personnel
@@ -65,7 +61,7 @@ steps outlined further in this policy are stated in order to ensure the
 steps are performed as necessary with the utmost regard for the
 potential new employee’s privacy.
 
-5.  Requirements {style="display:inline"}
+5.  Requirements
     ============
 
 Attracts, Develops, and Retains Individual Archway Health provides the
@@ -175,7 +171,7 @@ whistle-blower hotlines, are in place and serve as fail-safe mechanisms
 to enable anonymous or confidential communication when normal channels
 are inoperative or ineffe^[[n]](#cmnt14)^ctive.
 
-6.  Management Commitment {style="display:inline"}
+6.  Management Commitment
     =====================
 
 Archway Health is committed to protecting its employees, partners,
@@ -184,7 +180,7 @@ or damaging actions by individuals, either knowingly or unknowingly.
  This policy is a tool management uses to demonstrate and carry out its
 commitment.^[[o]](#cmnt15)^
 
-7.  Coordination among Organizational Entities {style="display:inline"}
+7.  Coordination among Organizational Entities
     ==========================================
 
 Archway Health wants all organizational entities to cooperate and
@@ -193,7 +189,7 @@ Information Security Program.
 
 ^[[p]](#cmnt16)^
 
-8.  Compliance {style="display:inline"}
+8.  Compliance
     ==========
 
 Compliance is mandatory.  Violation of this policy may result in (but is
