@@ -1,5 +1,5 @@
 Personnel Security Policy
-
+=========================
 Effective Date:  June 4, 2019
 
 1.0        Purpose
@@ -251,7 +251,7 @@ seq.
 | ------------------ | ------------------ | ------------------ | ------------------ |
 | 06/04/2019         | 1.0                | Keith S. Crumpton  | Created document   |
 
-[a](#cmnt_ref1)CC1.4
+[a](#cmnt_ref1) CC1.4
 
 [[b]](#cmnt_ref2)HITRUST 02.a
 
