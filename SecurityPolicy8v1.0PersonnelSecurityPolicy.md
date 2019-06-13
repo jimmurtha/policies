@@ -199,7 +199,7 @@ Health.
 
 ^[[q]](#cmnt17)^
 
-9.0  Key Responsibilities {style="display:inline"}
+9.0  Key Responsibilities
 ========================
 
 Managers must:
@@ -232,7 +232,7 @@ Human Resources Department must:
 
 -   Jointly maintain this policy with the Chief Security Officer.
 
-10.0 Disciplinary Actions {style="display:inline"}
+10.0 Disciplinary Actions
 ========================
 
 Violations of the Security Policies (without prior written approval from
@@ -267,9 +267,7 @@ Revision History
 | 06/04/2019         | 1.0                | Keith S. Crumpton  | Created document   |
 +--------------------+--------------------+--------------------+--------------------+
 
-Security Policy 8                                              HIGHLY
-CONFIDENTIAL                                                          
-Page  of
+Security Policy 8      CONFIDENTIAL                                                          
 
 [[a]](#cmnt_ref1)CC1.4
 
