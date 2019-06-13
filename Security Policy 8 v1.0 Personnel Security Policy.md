@@ -104,7 +104,7 @@ earned.[[e]](#cmnt5)
 In addition, the background check must include a credit check, criminal
 background check, drug, and reference checks and shall be proportional
 to the business requirements, the classification of the information to
-be accessed, and the perceived risks.^[[f]](#cmnt6)^
+be accessed, and the perceived risks.[[f]](#cmnt6)
 
 All offers of employment will be contingent on the satisfactory results
 of a background investigation and drug screening.
