@@ -32,7 +32,7 @@ If you do not find a definition for an unfamiliar term referenced within
 this document, please contact the Chief Security Officer or her/his
 designate for clarification.
 
-3.0        Scope
+3.0        Scope
 ================
 
 This Policy applies to all potential new employees (whether full-time,
@@ -45,8 +45,8 @@ Compliance is mandatory.
 Personnel who have questions regarding this Policy should consult with
 the Chief Security Officer or her/his designate.
 
-4.0  Risk Statement
-==================
+4.0        Risk Statement
+=========================
 
 This Policy is necessary for the consistent processing of new personnel
 in order to ensure the new personnel’s fitness for employment.
@@ -61,8 +61,8 @@ steps outlined further in this policy are stated in order to ensure the
 steps are performed as necessary with the utmost regard for the
 potential new employee’s privacy.
 
-5.0  Requirements
-================
+5.0        Requirements
+=======================
 
 Attracts, Develops, and Retains Individual Archway Health provides the
 mentoring and training needed to attract, develop, and retain sufficient
@@ -86,7 +86,7 @@ job offer is extended.
 
 The identify of the applicant must be ascertained by passport, and/or
 government issued identification in accordance with the requirements of
-an I-9 form[[d]](#cmnt4).
+an I-9 form.[[d]](#cmnt4)
 
 Because the pre-employment forms facilitate the collection of personal
 information, including credit information, information about education,
@@ -109,8 +109,7 @@ be accessed, and the perceived risks.[[f]](#cmnt6)
 All offers of employment will be contingent on the satisfactory results
 of a background investigation and drug screening.
 
-Upon satisfactory completion of the background checks,
-
+Upon satisfactory completion of the background checks, 
 Human Resources will notify the hiring manager of the start date.
 
 The hiring manager will notify IT Support of the start date and the
@@ -147,9 +146,7 @@ control that affects its information security performance;
 education, training, or experience;
 
 ​c) where applicable, take actions to acquire the necessary competence,
-and evaluate the effectiveness
-
-of the actions taken; and
+and evaluate the effectiveness of the actions taken; and
 
 ​d) retain appropriate documented information as evidence of
 competence.[[k]](#cmnt11)
@@ -169,10 +166,10 @@ please consult with the Chief Security Officer or her/his designate.
 Separate Communication Lines Separate communication channels, such as
 whistle-blower hotlines, are in place and serve as fail-safe mechanisms
 to enable anonymous or confidential communication when normal channels
-are inoperative or ineffe[[n]](#cmnt14)ctive.
+are inoperative or ineffective.[[n]](#cmnt14)
 
-6.0  Management Commitment
-=========================
+6.0        Management Commitment
+================================
 
 Archway Health is committed to protecting its employees, partners,
 clients, Archway Health, and the data Archway Health houses from illegal
@@ -180,27 +177,23 @@ or damaging actions by individuals, either knowingly or unknowingly.
  This policy is a tool management uses to demonstrate and carry out its
 commitment.[[o]](#cmnt15)
 
-7.0  Coordination among Organizational Entities
-==============================================
+7.0        Coordination among Organizational Entities
+=====================================================
 
 Archway Health wants all organizational entities to cooperate and
 coordinate with each other to ensure the effectiveness of the
-Information Security Program.
+Information Security Program.[[p]](#cmnt16)
 
-[[p]](#cmnt16)
-
-8.0  Compliance
-==============
+8.0        Compliance
+=====================
 
 Compliance is mandatory.  Violation of this policy may result in (but is
 not limited to) loss of access privileges, termination of employment,
 criminal charges and/or other actions, as deemed appropriate by Archway
-Health.
+Health.[[q]](#cmnt17)
 
-[[q]](#cmnt17)
-
-9.0  Key Responsibilities
-========================
+9.0        Key Responsibilities
+===============================
 
 Managers must:
 
@@ -232,8 +225,8 @@ Human Resources Department must:
 
 -   Jointly maintain this policy with the Chief Security Officer.
 
-10.0 Disciplinary Actions
-========================
+10.0        Disciplinary Actions
+================================
 
 Violations of the Security Policies (without prior written approval from
 the Chief Security Officer or her/his designate) will result in
@@ -244,8 +237,8 @@ accordance with applicable law.
 
 [[s]](#cmnt19)
 
-11.0 Regulatory and Standards Compliance
-=======================================
+11.0        Regulatory and Standards Compliance
+===============================================
 
 This policy complies with ISO 27001:2013, 2017 Trust Services Criteria
 for SOC 2, GDPR, HITRUST v9.2, NIST SP 800-53, and MA 201 C.M.R 17.00 et
