@@ -78,7 +78,7 @@ Terms and conditions of employment
 
 The contractual agreements with employees and contractors shall state
 their and the organization’s responsibilities for information
-security.[[c]](#cmnt3)
+security.[[3]](#cmnt-ref3)
 
 Human Resources must have a formal set of pre-employment forms and
 requirements that are distributed to all potential new personnel once a
@@ -86,7 +86,7 @@ job offer is extended.
 
 The identify of the applicant must be ascertained by passport, and/or
 government issued identification in accordance with the requirements of
-an I-9 form.[[d]](#cmnt4)
+an I-9 form.[[4]](#cmnt-ref4)
 
 Because the pre-employment forms facilitate the collection of personal
 information, including credit information, information about education,
@@ -99,12 +99,12 @@ authorization prior to the collection of the information.
 Human Resources shall perform, or contract for the performance of a
 comprehensive background check to include the potential new employees’
 assertions of previous employment, education, and credentials
-earned.[[e]](#cmnt5)
+earned.[[5]](#cmnt-ref5)
 
 In addition, the background check must include a credit check, criminal
 background check, drug, and reference checks and shall be proportional
 to the business requirements, the classification of the information to
-be accessed, and the perceived risks.[[f]](#cmnt6)
+be accessed, and the perceived risks.[[6]](#cmnt-ref6)
 
 All offers of employment will be contingent on the satisfactory results
 of a background investigation and drug screening.
@@ -123,19 +123,19 @@ access, credit cards, and mobile device(s) as required.
 All new personnel must sign the terms and conditions of the employment
 contract, which shall include their responsibilities for information
 security and include confidentiality and non-disclosure agreements prior
-to commencing employment.[[g]](#cmnt7)
+to commencing employment.[[7]](#cmnt-ref7)
 
 All new personnel must complete new hire orientation, attend Security
 Awareness Education sessions and sign a document stating they understand
 the principles of the Security Awareness Education and are aware of any
 disciplinary actions that may arise if the employee were to violate the
-Information Security Policies of the organization.[[h]](#cmnt8)
+Information Security Policies of the organization.[[8]](#cmnt-ref8)
 
 Annually Managers must evaluate the performance of individuals and teams
-against the entity’s expected standards of conduct.[[i]](#cmnt9)
+against the entity’s expected standards of conduct.[[9]](#cmnt-ref9)
 
 Competent personnel with sufficient authority perform control activities
-with diligence and continuing focus.[[j]](#cmnt10)
+with diligence and continuing focus.[[10]](#cmnt-ref10)
 
 Competence As part of the annual review Archway Health shall:
 
@@ -149,16 +149,16 @@ education, training, or experience;
 and evaluate the effectiveness of the actions taken; and
 
 ​d) retain appropriate documented information as evidence of
-competence.[[k]](#cmnt11)
+competence.[[11]](#cmnt-ref11)
 
 Uses Knowledgeable Personnel Evaluators performing ongoing and separate
 evaluations have sufficient knowledge to understand what is being
-evaluated.[[l]](#cmnt12)
+evaluated.[[12]](#cmnt-ref12)
 
 Segregation of duties Conflicting duties and areas of responsibility
 shall be segregated to reduce opportunities for unauthorized or
 unintentional modification or misuse of the organization’s
-assets.[[m]](#cmnt13)
+assets.[[13]](#cmnt-ref13)
 
 For any questions regarding the Security Program or Security Policies,
 please consult with the Chief Security Officer or her/his designate.
@@ -166,7 +166,7 @@ please consult with the Chief Security Officer or her/his designate.
 Separate Communication Lines Separate communication channels, such as
 whistle-blower hotlines, are in place and serve as fail-safe mechanisms
 to enable anonymous or confidential communication when normal channels
-are inoperative or ineffective.[[n]](#cmnt14)
+are inoperative or ineffective.[[14]](#cmnt-ref14)
 
 6.0        Management Commitment
 ================================
@@ -175,14 +175,14 @@ Archway Health is committed to protecting its employees, partners,
 clients, Archway Health, and the data Archway Health houses from illegal
 or damaging actions by individuals, either knowingly or unknowingly.
  This policy is a tool management uses to demonstrate and carry out its
-commitment.[[o]](#cmnt15)
+commitment.[[15]](#cmnt-ref15)
 
 7.0        Coordination among Organizational Entities
 =====================================================
 
 Archway Health wants all organizational entities to cooperate and
 coordinate with each other to ensure the effectiveness of the
-Information Security Program.[[p]](#cmnt16)
+Information Security Program.[[16]](#cmnt-ref16)
 
 8.0        Compliance
 =====================
@@ -190,7 +190,7 @@ Information Security Program.[[p]](#cmnt16)
 Compliance is mandatory.  Violation of this policy may result in (but is
 not limited to) loss of access privileges, termination of employment,
 criminal charges and/or other actions, as deemed appropriate by Archway
-Health.[[q]](#cmnt17)
+Health.[[17]](#cmnt-ref17)
 
 9.0        Key Responsibilities
 ===============================
@@ -216,7 +216,7 @@ Employees must:
 -   Protect assets from unauthorized access, disclosure, modification,
     destruction or interference;
 -   Execute particular security processes or activities;
-    and[[r]](#cmnt18)
+    and[[18]](#cmnt-ref18)
 -   Report any policy violations or exception within a timely manner to
     their management and to the Chief Security Officer or her/his
     designate.
@@ -235,7 +235,7 @@ to, employment termination and legal recourse against any person or
 entity whose action(s) directly or indirectly violate these policies, in
 accordance with applicable law.
 
-[[s]](#cmnt19)
+[[19]](#cmnt-ref19)
 
 11.0        Regulatory and Standards Compliance
 ===============================================
@@ -255,36 +255,36 @@ seq.
 
 <a name="cmnt-ref2">[2]</a> - HITRUST 02.a
 
-[[c]](#cmnt_ref3)CC2.3, AC-20, PL-4, PS-6, PS-7, ISO A7.1.2
+<a name="cmnt-ref3">[3]</a> - CC2.3, AC-20, PL-4, PS-6, PS-7, ISO A7.1.2
 
-[[d]](#cmnt_ref4)HITRUST 02.c
+<a name="cmnt-ref4">[4]</a> - 02.c
 
-[[e]](#cmnt_ref5)ISO 7.1.1, PS-3, HITRUST 02.b
+<a name="cmnt-ref5">[5]</a> - ISO 7.1.1, PS-3, HITRUST 02.b
 
-[[f]](#cmnt_ref6)ISO A7.1.1, PS-3, HITRUST 02.b
+<a name="cmnt-ref6">[6]</a> - ISO A7.1.1, PS-3, HITRUST 02.b
 
-[[g]](#cmnt_ref7)PL-4, PS-6, SA-9, HITRUST 02.c
+<a name="cmnt-ref7">[7]</a> - PL-4, PS-6, SA-9, HITRUST 02.c
 
-[[h]](#cmnt_ref8)ISO A7.2.2, At-2, AT-3, IR-2
+<a name="cmnt-ref8">[8]</a> - ISO A7.2.2, At-2, AT-3, IR-2
 
-[[i]](#cmnt_ref9)CC1.1
+<a name="cmnt-ref9">[9]</a> - CC1.1
 
-[[j]](#cmnt_ref10)Cc5.3
+<a name="cmnt-ref10">[10]</a> - Cc5.3
 
-[[k]](#cmnt_ref11)PS-1, PS-3, CC1.4, ISO 7.2
+<a name="cmnt-ref11">[11]</a> - PS-1, PS-3, CC1.4, ISO 7.2
 
-[[l]](#cmnt_ref12)CC4.1
+<a name="cmnt-ref12">[12]</a> - CC4.1
 
-[[m]](#cmnt_ref13)A.6.1.2, AC-5, CC5.1
+<a name="cmnt-ref13">[13]</a> - A.6.1.2, AC-5, CC5.1
 
-[[n]](#cmnt_ref14)ISOA16.13, PL-4, SI-2, SI-4, SI-5
+<a name="cmnt-ref14">[14]</a> - ISOA16.13, PL-4, SI-2, SI-4, SI-5
 
-[[o]](#cmnt_ref15)AC-1(a)(1)[1][e]
+<a name="cmnt-ref15">[15]</a> - AC-1(a)(1)[1][e]
 
-[[p]](#cmnt_ref16)AC-1(a)(1)[1][f]
+<a name="cmnt-ref16">[16]</a> - AC-1(a)(1)[1][f]
 
-[[q]](#cmnt_ref17)AC-1(a)(1)[1][g]
+<a name="cmnt-ref17">[17]</a> - AC-1(a)(1)[1][g]
 
-[[r]](#cmnt_ref18)HITRUST 02.a
+<a name="cmnt-ref18">[18]</a> - HITRUST 02.a
 
-[[s]](#cmnt_ref19)AC-1(a)(1)[1][f]
+<a name="cmnt-ref19">[19]</a> - AC-1(a)(1)[1][f]
