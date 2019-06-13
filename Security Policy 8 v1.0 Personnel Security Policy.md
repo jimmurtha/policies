@@ -251,7 +251,7 @@ seq.
 | ------------------ | ------------------ | ------------------ | ------------------ |
 | 06/04/2019         | 1.0                | Keith S. Crumpton  | Created document   |
 
-<a name="cmnt-ref1">[1]</a>CC1.4
+<a name="cmnt-ref1">[1]</a> - CC1.4
 
 [b](#cmnt_ref2)HITRUST 02.a
 
