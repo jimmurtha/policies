@@ -101,7 +101,7 @@ reputation degradation.
 
 4.  All wireless devices must require users, including Guest users, to
     provide proper authentication prior to gaining
-    access. ^[[a]](#cmnt1)^
+    access. [[1]](#cmnt-ref1)
 
 *Approved Technology*
 
@@ -117,14 +117,14 @@ wireless Access Points / Base Stations connected to the corporate
 network.
 
 The Network Operations team must register all wireless Access Points /
-Base Stations connected to the corporate network.^[[b]](#cmnt2)^
+Base Stations connected to the corporate network.[[2]](#cmnt-ref2)
 
 These Access Points / Base Stations are subject to periodic penetration
 tests and audits by the Chief Security Officer, or her/his
-designate. ^[[c]](#cmnt3)^
+designate. [[3]](#cmnt-ref3)
 
 In addition, a current network diagram shall be updated and available
-for review. ^[[d]](#cmnt4)^
+for review. [[4]](#cmnt-ref4)
 
 *Physical Security*
 
@@ -185,11 +185,11 @@ The IT Department must:
 Changing default administrative passwords, encryption settings, reset
 function, automatic network connection functions, and factory default
 shared keys and Simple Network Management Protocol (SNMP)
-access^[[e]](#cmnt5)^ will help eliminate many of the vulnerabilities
+access [[5]](#cmnt-ref5) will help eliminate many of the vulnerabilities
 that can affect the security of the Information Resources through
-unauthorized wireless access. ^[[f]](#cmnt6)^
+unauthorized wireless access. [[6]](#cmnt-ref6)
 
--   Enable WPA2 and use Enterprise mode where possible.^[[g]](#cmnt7)^
+-   Enable WPA2 and use Enterprise mode where possible.[[7]](#cmnt-ref7)
 
 -   Change any default Pre-Shared Key (PSK).
 
@@ -210,10 +210,10 @@ unauthorized wireless access. ^[[f]](#cmnt6)^
 -   Disable all unnecessary applications, ports, and protocols.
 
 -   Change encryption keys anytime anyone with knowledge of the keys
-    leaves the company or changes position.^[[h]](#cmnt8)^
+    leaves the company or changes position. [[8]](#cmnt-ref8)
 
 -   Apply configuration standards that are in line with this and other
-    Security Policies. ^[[i]](#cmnt9)^
+    Security Policies. [[9]](#cmnt-ref9)
 
 *Internal Network Address Access and Restriction*
 
@@ -221,7 +221,7 @@ Configure the wireless system to:
 
 -   Segregate wireless networks from internal and private networks but
     installing a firewall between any wireless network and Protected
-    Information networks. ^[[j]](#cmnt10)^
+    Information networks. [[10]](#cmnt-ref10)
 
 -   Prohibit restricted internal Domain Name System (DNS) information
     from becoming available via the Internet.
@@ -237,11 +237,11 @@ Configure the wireless system to:
 *Wireless Authentication and Encryption*
 
 1.  Implement (Wi-Fi Protected Access II) WPA2-Enterprise authentication
-    with PSK^[[k]](#cmnt11)^.
+    with PSK.[[11]](#cmnt-ref11)
 
-2.  Utilize Advanced Encryption Standard (AES) encryption for wireless
+2.  Utilize Advanced Encr yption Standard (AES) encryption for wireless
     network connections to provide authorized wireless access to the
-    Information Resources. ^[[l]](#cmnt12)^
+    Information Resources. [[12]](#cmnt-ref12)
 
 3.  Do not use Wireless Equivalent Privacy (WEP) keys within the
     environment, as this protocol is not secure.
@@ -255,7 +255,7 @@ Configure the wireless system to:
     devices.
 
 2.  Do not use wireless client devices to communicate directly with each
-    other through a peer-to-peer connection. ^[[m]](#cmnt13)^
+    other through a peer-to-peer connection. [[13]](#cmnt-ref13)
 
 3.  Do not use VLAN based segmentation with MAC address filters for
     segmenting wireless networks.
@@ -264,13 +264,13 @@ When designing, deploying, and managing communications between external
 (hostile) networks and wireless networks, include the implementation of
 a firewall technology solution to isolate this traffic from the internal
 network to facilitate the protection of the Information Resources from
-unauthorized access, modifications, or destruction. ^[[n]](#cmnt14)^
+unauthorized access, modifications, or destruction. [[14]](#cmnt-ref14)
 
 *VPN and Multi-Factor Authentication*
 
 All devices enabled with wireless access must utilize the
 corporate-approved VPN to access any environment that has Protected
-Information. ^[[o]](#cmnt15)^
+Information. [[15]](#cmnt-ref15)
 
 Management must approve access for the wireless network to gain access
 to the production environment after receiving the appropriate forms
@@ -281,7 +281,7 @@ containing a valid business justification.  
 Monitor real-time wireless device alerts (if available) for suspicious
 behavior including changes in the known state of the network. 
 Appropriate review and escalation procedures should also be
-utilized^[[p]](#cmnt16)^.  
+utilized. [[16]](#cmnt-ref16)  
 
 Wireless devices must log all activity to a permanent monitored system
 log.  Enable historical logging of wireless access that can provide
@@ -295,7 +295,7 @@ threat.
 
 Generate a monthly report showing periodic wireless scans showing any
 rogue wireless devices.  If rogue devices are present, remove them from
-the network and rerun the scan. ^[[q]](#cmnt17)^
+the network and rerun the scan. [[17]](#cmnt-ref17)
 
 Monitor and resolve all security violations, and notify the Chief
 Security Officer, or her/his designate, of any unresolved or recurring
@@ -308,16 +308,14 @@ The Company is committed to protecting its employees, partners, clients,
 the company, and the data the company houses from illegal or damaging
 actions by individuals, either knowingly or unknowingly.  This policy is
 a tool management uses to demonstrate and carry out its
-commitment. ^[[r]](#cmnt18)^
+commitment. [[18]](#cmnt-ref18)
 
 7.0         Coordination among Organizational Entities
 ------------------------------------------------------
 
 The company wants all organizational entities to cooperate and
 coordinate with each other to ensure the effectiveness of the
-Information Security Program.
-
-^[[s]](#cmnt19)^
+Information Security Program. [[19]](#cmnt-ref19)
 
 8.0             Compliance
 --------------------------
@@ -325,7 +323,7 @@ Information Security Program.
 Compliance is mandatory.  Violation of this policy may result in (but is
 not limited to) loss of access privileges, termination of employment,
 criminal charges and/or other actions, as deemed appropriate by the
-company. ^[[t]](#cmnt20)^
+company. [[20]](#cmnt-ref20)
 
 9.0         Key Responsibilities
 --------------------------------
@@ -402,42 +400,42 @@ Revision History
 
 Security Policy 25        CONFIDENTIAL
 
-[[a]](#cmnt_ref1)AC-18(a)[1]
+<a name="cmnt-ref1">[1]</a> - AC-18(a)[1]
 
-[[b]](#cmnt_ref2)HITRUST 07.a
+<a name="cmnt-ref2">[2]</a> - HITRUST 07.a
 
-[[c]](#cmnt_ref3)AC-18(b)
+<a name="cmnt-ref3">[3]</a> - AC-18(b)
 
-[[d]](#cmnt_ref4)HITRUST )9.m
+<a name="cmnt-ref4">[4]</a> - HITRUST )9.m
 
-[[e]](#cmnt_ref5)HITRUST 01.d
+<a name="cmnt-ref5">[5]</a> - 01.d
 
-[[f]](#cmnt_ref6)HITRUST 09.m
+<a name="cmnt-ref6">[6]</a> - HITRUST 09.m
 
-[[g]](#cmnt_ref7)HITRUST 09.s
+<a name="cmnt-ref7">[7]</a> - HITRUST 09.s
 
-[[h]](#cmnt_ref8)HITRUST 09.m
+<a name="cmnt-ref8">[8]</a> - HITRUST 09.m
 
-[[i]](#cmnt_ref9)HITRUST 10.m
+<a name="cmnt-ref9">[9]</a>HITRUST 10.m
 
-[[j]](#cmnt_ref10)HITRUST 01.m, 09.m
+<a name="cmnt-ref10">[10]</a>HITRUST 01.m, 09.m
 
-[[k]](#cmnt_ref11)HITRUST 09.s
+<a name="cmnt-ref11">[11]</a>HITRUST 09.s
 
-[[l]](#cmnt_ref12)HITRUST 01.y
+<a name="cmnt-ref12">[12]</a>HITRUST 01.y
 
-[[m]](#cmnt_ref13)HITRUST 01.l
+<a name="cmnt-ref13">[13]</a>HITRUST 01.l
 
-[[n]](#cmnt_ref14)AC-18(a)[2], AC-18(a)[3]
+<a name="cmnt-ref14">[14]</a>AC-18(a)[2], AC-18(a)[3]
 
-[[o]](#cmnt_ref15)HITRUST 01.j
+<a name="cmnt-ref15">[15]</a>HITRUST 01.j
 
-[[p]](#cmnt_ref16)HITRUST 01.j
+<a name="cmnt-ref16">[16]</a>HITRUST 01.j
 
-[[q]](#cmnt_ref17)HITRUST 09.m
+<a name="cmnt-ref17">[17]</a>HITRUST 09.m
 
-[[r]](#cmnt_ref18)AC-1(a)(1)[1][e]
+<a name="cmnt-ref18">[18]</a>AC-1(a)(1)[1][e]
 
-[[s]](#cmnt_ref19)AC-1(a)(1)[1][f]
+<a name="cmnt-ref19">[19]</a>AC-1(a)(1)[1][f]
 
-[[t]](#cmnt_ref20)AC-1(a)(1)[1][g]
+<a name="cmnt-ref20">[20]</a>AC-1(a)(1)[1][g]
