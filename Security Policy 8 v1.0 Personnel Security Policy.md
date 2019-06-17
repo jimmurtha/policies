@@ -226,7 +226,7 @@ Human Resources Department must:
 -   Jointly maintain this policy with the Chief Security Officer.
 
 10.0        Disciplinary Actions
-================================
+--------------------------------
 
 Violations of the Security Policies (without prior written approval from
 the Chief Security Officer or her/his designate) will result in
@@ -243,7 +243,7 @@ for SOC 2, GDPR, HITRUST v9.2, NIST SP 800-53, and MA 201 C.M.R 17.00 et
 seq.
 
 12.0        Revision History
-================
+----------------------------
 
 | Date               | Revision           | Revised by         | Nature of Change   |
 | ------------------ | ------------------ | ------------------ | ------------------ |
