@@ -1,12 +1,9 @@
-Wireless![](images/image1.png)
-
-Security Policy         
-
+Wireless Security Policy       
+========================
 Effective Date:  June 17, 2019
 
-1.  Purpose {style="display:inline"}
-    =======
-
+1.0         Purpose
+-------------------
 Wireless network accessibility to the Corporate Network introduces a
 very convenient way to access network resources while on the company
 premises.  
@@ -22,8 +19,8 @@ wireless devices from unauthorized disclosure, modification, or theft,
 required the Company to implement the appropriate security measures
 outlined in this Policy for wireless networks.
 
-2.  Definitions {style="display:inline"}
-    ===========
+2.0         Definitions
+-----------------------
 
 Definitions are located in the Information Security Program Definitions
 document.  
@@ -32,8 +29,8 @@ If you do not find a definition for an unfamiliar term referenced within
 this document, please contact the Chief Security Officer or her/his
 designate for clarification.
 
-3.  Scope {style="display:inline"}
-    =====
+3.0         Scope
+-----------------
 
 This policy prohibits access to internal corporate networks using
 non-company issued, or unsecured wireless communication mechanisms and
@@ -64,8 +61,8 @@ company.
 Personnel who have questions regarding this Policy should consult with
 the Chief Security Officer or her/his designate.
 
-4.  Risk Statement {style="display:inline"}
-    ==============
+4.0         Risk Statement
+--------------------------
 
 If the wireless network does not conform to the requirements of this
 policy, the wireless network may come under attack by those wishing to
@@ -85,10 +82,10 @@ liability, theft of information, loss of client/customer privacy, major
 embarrassment, loss of productivity, loss of resources, and/or
 reputation degradation.
 
-5.  Requirements {style="display:inline"}
-    ============
+5.0         Requirements
+------------------------
 
-General Wireless Controls
+*General Wireless Controls*
 
 1.  Do not use wireless devices for the transmission or storage of
     Protected Information unless the data is properly encrypted using
@@ -104,16 +101,16 @@ General Wireless Controls
 
 4.  All wireless devices must require users, including Guest users, to
     provide proper authentication prior to gaining
-    access.^[[a]](#cmnt1)^
+    access. ^[[a]](#cmnt1)^
 
-Approved Technology
+*Approved Technology*
 
 All wireless communication access must use company-approved vendor
 products and security configurations.  For a list of current corporate
 approved vendor products and security configurations please contact the
 Chief Security Officer or her/his designate
 
-Register Access Points and Cards
+*Register Access Points and Cards*
 
 The Chief Security Officer or her/his designate must approve all
 wireless Access Points / Base Stations connected to the corporate
@@ -124,14 +121,12 @@ Base Stations connected to the corporate network.^[[b]](#cmnt2)^
 
 These Access Points / Base Stations are subject to periodic penetration
 tests and audits by the Chief Security Officer, or her/his
-designate.^[[c]](#cmnt3)^
+designate. ^[[c]](#cmnt3)^
 
 In addition, a current network diagram shall be updated and available
-for review.^[[d]](#cmnt4)^
+for review. ^[[d]](#cmnt4)^
 
- 
-
-Physical Security
+*Physical Security*
 
 Proper physical controls minimize the risk that an unauthorized user may
 gain access to the wireless device by exploiting weaknesses in physical
@@ -149,8 +144,8 @@ particular problem because it allows an individual to negate any
 security settings that administrators have configured in the WAP.
 
 Additionally, a malicious person can invoke reset remotely over the
-management interface or by using a administrative interface on the WAP.
- Adequate mechanisms need to be in place to prevent unauthorized
+management interface or by using a administrative interface on the WAP. 
+Adequate mechanisms need to be in place to prevent unauthorized
 physical access to wireless devices.
 
 -   Use WAPs with enclosures and mounting options that prevent physical
@@ -163,7 +158,7 @@ physical access to wireless devices.
 -   Mount WAPs on ceilings and walls that do not allow easy physical
     access.
 
-Wireless Architecture and Configuration
+*Wireless Architecture and Configuration*
 
 The IT Department must:
 
@@ -185,14 +180,14 @@ The IT Department must:
 5.  Ensure the wireless configuration does not adversely affect
     neighboring installations.
 
-Change defaults on Wireless Access Points
+*Change defaults on Wireless Access Points*
 
 Changing default administrative passwords, encryption settings, reset
 function, automatic network connection functions, and factory default
 shared keys and Simple Network Management Protocol (SNMP)
 access^[[e]](#cmnt5)^ will help eliminate many of the vulnerabilities
 that can affect the security of the Information Resources through
-unauthorized wireless access.^[[f]](#cmnt6)^
+unauthorized wireless access. ^[[f]](#cmnt6)^
 
 -   Enable WPA2 and use Enterprise mode where possible.^[[g]](#cmnt7)^
 
@@ -218,15 +213,15 @@ unauthorized wireless access.^[[f]](#cmnt6)^
     leaves the company or changes position.^[[h]](#cmnt8)^
 
 -   Apply configuration standards that are in line with this and other
-    Security Policies.^[[i]](#cmnt9)^
+    Security Policies. ^[[i]](#cmnt9)^
 
-Internal Network Address Access and Restriction
+*Internal Network Address Access and Restriction*
 
 Configure the wireless system to:
 
 -   Segregate wireless networks from internal and private networks but
     installing a firewall between any wireless network and Protected
-    Information networks.^[[j]](#cmnt10)^
+    Information networks. ^[[j]](#cmnt10)^
 
 -   Prohibit restricted internal Domain Name System (DNS) information
     from becoming available via the Internet.
@@ -239,28 +234,28 @@ Configure the wireless system to:
 -   Be flexible enough to implement corporate security policies
     effectively and efficiently.
 
-Wireless Authentication and Encryption
+*Wireless Authentication and Encryption*
 
 1.  Implement (Wi-Fi Protected Access II) WPA2-Enterprise authentication
     with PSK^[[k]](#cmnt11)^.
 
 2.  Utilize Advanced Encryption Standard (AES) encryption for wireless
     network connections to provide authorized wireless access to the
-    Information Resources.^[[l]](#cmnt12)^
+    Information Resources. ^[[l]](#cmnt12)^
 
 3.  Do not use Wireless Equivalent Privacy (WEP) keys within the
     environment, as this protocol is not secure.
 
 4.  When possible, 256-bit encryption is preferred.
 
-Wireless LAN
+*Wireless LAN*
 
 1.  Client devices with Wireless LAN support should not operate in
     “Ad-Hoc Mode” or otherwise provide wireless connectivity to other
     devices.
 
 2.  Do not use wireless client devices to communicate directly with each
-    other through a peer-to-peer connection.^[[m]](#cmnt13)^
+    other through a peer-to-peer connection. ^[[m]](#cmnt13)^
 
 3.  Do not use VLAN based segmentation with MAC address filters for
     segmenting wireless networks.
@@ -269,25 +264,23 @@ When designing, deploying, and managing communications between external
 (hostile) networks and wireless networks, include the implementation of
 a firewall technology solution to isolate this traffic from the internal
 network to facilitate the protection of the Information Resources from
-unauthorized access, modifications, or destruction.^[[n]](#cmnt14)^
+unauthorized access, modifications, or destruction. ^[[n]](#cmnt14)^
 
- 
-
-VPN and Multi-Factor Authentication
+*VPN and Multi-Factor Authentication*
 
 All devices enabled with wireless access must utilize the
 corporate-approved VPN to access any environment that has Protected
-Information.^[[o]](#cmnt15)^
+Information. ^[[o]](#cmnt15)^
 
 Management must approve access for the wireless network to gain access
 to the production environment after receiving the appropriate forms
 containing a valid business justification.  
 
-Auditing, Monitoring, and Alert Management
+*Auditing, Monitoring, and Alert Management*
 
 Monitor real-time wireless device alerts (if available) for suspicious
-behavior including changes in the known state of the network.
- Appropriate review and escalation procedures should also be
+behavior including changes in the known state of the network. 
+Appropriate review and escalation procedures should also be
 utilized^[[p]](#cmnt16)^.  
 
 Wireless devices must log all activity to a permanent monitored system
@@ -302,23 +295,23 @@ threat.
 
 Generate a monthly report showing periodic wireless scans showing any
 rogue wireless devices.  If rogue devices are present, remove them from
-the network and rerun the scan.^[[q]](#cmnt17)^
+the network and rerun the scan. ^[[q]](#cmnt17)^
 
 Monitor and resolve all security violations, and notify the Chief
 Security Officer, or her/his designate, of any unresolved or recurring
 events.
 
-6.  Management Commitment {style="display:inline"}
-    =====================
+6.0         Management Commitment
+---------------------------------
 
 The Company is committed to protecting its employees, partners, clients,
 the company, and the data the company houses from illegal or damaging
 actions by individuals, either knowingly or unknowingly.  This policy is
 a tool management uses to demonstrate and carry out its
-commitment.^[[r]](#cmnt18)^
+commitment. ^[[r]](#cmnt18)^
 
-7.  Coordination among Organizational Entities {style="display:inline"}
-    ==========================================
+7.0         Coordination among Organizational Entities
+------------------------------------------------------
 
 The company wants all organizational entities to cooperate and
 coordinate with each other to ensure the effectiveness of the
@@ -326,18 +319,16 @@ Information Security Program.
 
 ^[[s]](#cmnt19)^
 
-8.  Compliance {style="display:inline"}
-    ==========
+8.0             Compliance
+--------------------------
 
 Compliance is mandatory.  Violation of this policy may result in (but is
 not limited to) loss of access privileges, termination of employment,
 criminal charges and/or other actions, as deemed appropriate by the
-company.
+company. ^[[t]](#cmnt20)^
 
-^[[t]](#cmnt20)^
-
-9.  Key Responsibilities {style="display:inline"}
-    ====================
+9.0         Key Responsibilities
+--------------------------------
 
 Chief Security Officer must:
 
@@ -377,8 +368,8 @@ Owners must:
     their management and to the Chief Security Officer or her/his
     designate.
 
-10. Disciplinary Actions {style="display:inline"}
-    ====================
+10.0        Disciplinary Actions
+--------------------------------
 
 Violations of the Security Policies (without prior written approval from
 the Chief Security Officer or her/his designate) will result in
@@ -387,8 +378,8 @@ to, employment termination and legal recourse, in accordance with
 applicable law, against any person or entity whose action(s) directly or
 indirectly violate these policies.
 
-11. Regulatory and Standards Compliance {style="display:inline"}
-    ===================================
+11.0 Regulatory and Standards Compliance
+-----------------------------------------
 
 This policy complies with ISO 27001:2013, 2017 Trust Services Criteria
 for SOC 2, GDPR, HITRUST v9.2, NIST SP 800-53, and MA 201 C.M.R 17.00 et
@@ -404,13 +395,12 @@ Chief Security Officer
 
 Revision History
 
-+--------------------+--------------------+--------------------+--------------------+
-| Date               | Revision           | Revised by         | Nature of Change   |
-+--------------------+--------------------+--------------------+--------------------+
-| 06/17/2019         | 1.0                | Keith S. Crumpton  | Created document   |
-+--------------------+--------------------+--------------------+--------------------+
 
-Security Policy 25        HIGHLY CONFIDENTIAL         Page  of
+| Date               | Revision           | Revised by         | Nature of Change   |
+|--------------------|--------------------|--------------------|--------------------|
+| 06/17/2019         | 1.0                | Keith S. Crumpton  | Created document   |
+
+Security Policy 25        CONFIDENTIAL
 
 [[a]](#cmnt_ref1)AC-18(a)[1]
 
