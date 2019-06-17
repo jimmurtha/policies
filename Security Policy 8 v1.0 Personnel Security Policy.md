@@ -3,7 +3,7 @@ Personnel Security Policy
 Effective Date:  June 4, 2019
 
 1.0        Purpose
-==================
+------------------
 
 In order to create a safe and secure workplace and to ensure that
 Archway Health employees are qualified to perform the jobs for which the
@@ -23,7 +23,7 @@ criminal history, and other information related to employment decisions
 that assist the organization in meeting its commitments.
 
 2.0        Definitions
-======================
+----------------------
 
 Definitions are located in the Information Security Program Definitions
 document.  
@@ -33,7 +33,7 @@ this document, please contact the Chief Security Officer or her/his
 designate for clarification.
 
 3.0        Scope
-================
+----------------
 
 This Policy applies to all potential new employees (whether full-time,
 part-time, seasonal, or temporary), affiliates, subsidiaries,
@@ -46,7 +46,7 @@ Personnel who have questions regarding this Policy should consult with
 the Chief Security Officer or her/his designate.
 
 4.0        Risk Statement
-=========================
+-------------------------
 
 This Policy is necessary for the consistent processing of new personnel
 in order to ensure the new personnel’s fitness for employment.
@@ -62,7 +62,7 @@ steps are performed as necessary with the utmost regard for the
 potential new employee’s privacy.
 
 5.0        Requirements
-=======================
+-----------------------
 
 Attracts, Develops, and Retains Individual Archway Health provides the
 mentoring and training needed to attract, develop, and retain sufficient
@@ -169,7 +169,7 @@ to enable anonymous or confidential communication when normal channels
 are inoperative or ineffective. [[14]](#cmnt-ref14)
 
 6.0        Management Commitment
-================================
+--------------------------------
 
 Archway Health is committed to protecting its employees, partners,
 clients, Archway Health, and the data Archway Health houses from illegal
@@ -178,14 +178,14 @@ or damaging actions by individuals, either knowingly or unknowingly.
 commitment. [[15]](#cmnt-ref15)
 
 7.0        Coordination among Organizational Entities
-=====================================================
+-----------------------------------------------------
 
 Archway Health wants all organizational entities to cooperate and
 coordinate with each other to ensure the effectiveness of the
 Information Security Program. [[16]](#cmnt-ref16)
 
 8.0        Compliance
-=====================
+---------------------
 
 Compliance is mandatory.  Violation of this policy may result in (but is
 not limited to) loss of access privileges, termination of employment,
@@ -193,7 +193,7 @@ criminal charges and/or other actions, as deemed appropriate by Archway
 Health. [[17]](#cmnt-ref17)
 
 9.0        Key Responsibilities
-===============================
+-------------------------------
 
 Managers must:
 
@@ -236,7 +236,7 @@ entity whose action(s) directly or indirectly violate these policies, in
 accordance with applicable law. [[19]](#cmnt-ref19)
 
 11.0        Regulatory and Standards Compliance
-===============================================
+-----------------------------------------------
 
 This policy complies with ISO 27001:2013, 2017 Trust Services Criteria
 for SOC 2, GDPR, HITRUST v9.2, NIST SP 800-53, and MA 201 C.M.R 17.00 et
